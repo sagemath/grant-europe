@@ -88,9 +88,9 @@ Notations: [X]: easy to argue; [?]: we have some lead, but that will take some a
     be.
 ** Big Data
     This is a central keyword in the call; what do we have to offer in
-    this direction, beside mentioning LMFDB.org as sister project?
+    this direction, beside mentioning [[http://lmfdb.org][LMFDB]] as sister project?
 ** Industrial collaborations
-   Eugénia Shadlova: those are very welcome, but not necessary
+   Eugénia Shadlova: those are very welcome, but not necessary.
    Directions to explore:
    - [[http://logilab.fr][Logilab]]?
    - Label by the [[http://www.gt-logiciel-libre.org/][open source software work group]] of the [[http://systematic-paris-region.org/][Systematic Paris Region Systems & ICT Cluster]]?
@@ -115,9 +115,9 @@ Notations: [X]: easy to argue; [?]: we have some lead, but that will take some a
   - La description thématique et scientifique du projet (Document Word)
     3-5 pages
 
-    A) le contexte et le thème scientifique
-    B) Les challenges et l'originalité de la solution
-    C) Les retombées scientifiques et sociétales
+    1. le contexte et le thème scientifique
+    2. Les challenges et l'originalité de la solution
+    3. Les retombées scientifiques et sociétales
 
     file:Thiery-Sage-H2020-2014.docx
 
