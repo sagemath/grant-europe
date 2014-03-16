@@ -1,5 +1,5 @@
-Grant application files for a potential european H2020 grant
-============================================================
+Grant application files for a potential European H2020 grant around Sage
+========================================================================
 
 At the occasion of a presentation of the European H2020 call for
 grants, I (Nicolas M. Thiéry) started discussing opportunities for
@@ -7,9 +7,9 @@ Sage with Eugénia Shadlova (in charge of European projects at
 Université Paris-Sud) and Jean-Pierre Caminade (research
 infrastructure mission in the french research ministry). From those
 discussions, it seems a good bet could be the call EINFRA-9:
-e-Infrastructure for Virtual Research Environment.  The time line
-would be a submission in January 2015, with funding starting 8 month
-after the submission.
+e-Infrastructure for Virtual Research Environment. The time line would
+be a submission in January 2015, with funding starting 8 months after
+the submission.
 
 So now is a good time to start thinking about it. This in particular
 since the French CNRS INS2I institute is offering support (up to 5000
@@ -43,8 +43,10 @@ be cleared! Also other grant opportunities can and should be explored
 (e.g. COST networks). And again: if anyone feels like taking on /
 sharing the lead, please!!!
 
-- [Draft of project description](project-description.tex)
+- [Draft of project description](project-description.tex),
   [PDF](project-description.pdf)
 
 - [Information about the call, Todo list, ...](TODO)
   This is best viewed/edited using org-mode
+
+- [Thread on sage-devel](https://groups.google.com/d/msg/sage-devel/zW8vHUI1PEw/SOl3lQrS08YJ)
