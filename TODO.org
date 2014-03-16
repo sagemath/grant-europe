@@ -92,17 +92,13 @@ Notations: [X]: easy to argue; [?]: we have some lead, but that will take some a
 ** Industrial collaborations
    Eugénia Shadlova: those are very welcome, but not necessary
    Directions to explore:
-   - Logilab
-     http://logilab.fr
-   - Label by the open source software work group of the Systematic
-     Paris Region Systems & ICT Cluster
-
-     http://systematic-paris-region.org/
+   - [[http://logilab.fr][Logilab]]?
+   - Label by the [[http://www.gt-logiciel-libre.org/][open source software work group]] of the [[http://systematic-paris-region.org/][Systematic Paris Region Systems & ICT Cluster]]?
 * Références
-  http://ec.europa.eu/research/participants/portal/
-  http://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/topics/2144-einfra-9-2015.html
-  http://ec.europa.eu/digital-agenda/en/news/information-days-horizon-2020-research-infrastructures-work-programme-2014-2015-focus-e
-  file:SubmissionAndEvaluation.ppt
+  - http://ec.europa.eu/research/participants/portal/
+  - http://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/topics/2144-einfra-9-2015.html
+  - http://ec.europa.eu/digital-agenda/en/news/information-days-horizon-2020-research-infrastructures-work-programme-2014-2015-focus-e
+  - file:SubmissionAndEvaluation.ppt
 
 * TODO Choose an acronym
 * TODO Support from CNRS's INS2I for preparing an application
@@ -135,33 +131,33 @@ Notations: [X]: easy to argue; [?]: we have some lead, but that will take some a
     - Ouverture vers d'autres disciplines
 
 2. Assurez-vous que ce que vous souhaitez mettre en place correspond
-bien à la définition du Virtual research environment - une étape
-au-dessus du logiciel, une "boite à outils"qui aide les chercheurs des
-disciplines différentes à gérer des séries de tâches de plus en plus
-complexes impliquées dans leurs recherches.
+   bien à la définition du Virtual research environment - une étape
+   au-dessus du logiciel, une "boite à outils"qui aide les chercheurs
+   des disciplines différentes à gérer des séries de tâches de plus en
+   plus complexes impliquées dans leurs recherches.
 
 3. Attention, l'appel met beaucoup l'accent sur "data exploitation",
-ce qui n'est pas forcément présent dans votre projet, il y a peut-être
-moyen d'y intégrer cet aspect ?
+   ce qui n'est pas forcément présent dans votre projet, il y a
+   peut-être moyen d'y intégrer cet aspect ?
 
 4. "they should re-use tools and services from existing
-infrastructures"(v.le texte de l'appel) -  c'est très positif pour
-nous vue que votre projet se base sur des outils existants
+   infrastructures"(v.le texte de l'appel) - c'est très positif pour
+   nous vue que votre projet se base sur des outils existants
 
 5. "they may also support proof of concept, prototyping and deployment
-of advanced data services and environments, and access to top-of-the
-range connectivity and computing" - ça c'est un aspect très important
-qui doit absolument être pris en compte
+   of advanced data services and environments, and access to
+   top-of-the range connectivity and computing" - ça c'est un aspect
+   très important qui doit absolument être pris en compte
 
 6. Enfin, il y aura une grande communauté scientifique derrière cet
-appel (projets ESFRI), mais la carte que vous aurez à jouer par
-rapport à eux, c'est que votre projet porte sur les maths, et il y
-aura très peu de matheux parmi les autres candidats. Il sera donc très
-important d'inclure dans votre projet des chercheurs en combinatoire,
-qui seront des end-users de votre logiciel, et de préférence quelques
-grands noms.
+   appel (projets ESFRI), mais la carte que vous aurez à jouer par
+   rapport à eux, c'est que votre projet porte sur les maths, et il y
+   aura très peu de matheux parmi les autres candidats. Il sera donc
+   très important d'inclure dans votre projet des chercheurs en
+   combinatoire, qui seront des end-users de votre logiciel, et de
+   préférence quelques grands noms.
 
 * Meeting with the infrastructure PCN of the french ministry of research
-  JEAN-PIERRE CAMINADE <jean-pierre.caminade@recherche.gouv.fr>
   <2014-02-10 lun. 16:00-17:00>
+  JEAN-PIERRE CAMINADE <jean-pierre.caminade at recherche.gouv.fr>
   PCRI, accueil du bâtiment

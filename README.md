@@ -46,7 +46,7 @@ sharing the lead, please!!!
 - [Draft of project description](project-description.tex),
   [PDF](project-description.pdf)
 
-- [Information about the call, Todo list, ...](TODO)
+- [Information about the call, Todo list, ...](TODO.org)
   This is best viewed/edited using org-mode
 
 - [Thread on sage-devel](https://groups.google.com/d/msg/sage-devel/zW8vHUI1PEw/SOl3lQrS08YJ)
