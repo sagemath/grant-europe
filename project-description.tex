@@ -1,0 +1,336 @@
+\documentclass[a4,12pt]{amsart}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[american]{babel}
+\usepackage{amssymb,amsbsy,amsmath,amsfonts,amssymb,amscd}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{xspace}
+\usepackage{eurosym}
+\usepackage[left=2.5cm, right=2.5cm, top=2.5cm,bottom=2cm]{geometry}
+
+\newcommand{\sage}{\href{http://www.sagemath.org/}{\texttt{Sage}}\xspace}
+\newcommand{\sagecombinat}{\href{http://wiki.sagemath.org/combinat/}{\texttt{Sage-Combinat}}\xspace}
+\usepackage{color}
+\newcommand{\TODO}[2][To do: ]{{\textcolor{red}{\textbf{#1#2}}}}
+%\newcommand{\TODO}[2][To do: ]{}
+
+\usepackage{enumitem}
+\setitemize{leftmargin=4ex, noitemsep,topsep=0pt,parsep=0pt,partopsep=0pt}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% A wider quote
+\renewenvironment{quote}{%
+  \list{}{%
+    \leftmargin0.5cm   % this is the adjusting screw
+    \rightmargin\leftmargin
+  }
+  \item\relax
+}
+{\endlist}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\title[SageMath in Europe]{SageMath in Europe: Mutualized development\\
+  of computer exploration environment\\
+  for research in combinatorics, algebra, and beyond
+}
+% Titre français:
+% Développent logiciel mutualisé pour la recherche en combinatoire et au delà
+\date{}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+\ \vspace{-1.5cm}
+\hrule
+\medskip
+\maketitle
+\ \vspace{-1cm}
+\hrule
+%\subsection*{Long title}
+
+%\TODO{From the application guide: maximum 150 caractères}
+
+%\textbf{Mutualized software development\\for research in combinatorics and beyond}
+
+%\textbf{Sage-Combinat: fostering code sharing in combinatorics and beyond, for computer exploration and research}
+% Keywords: in the French community?
+% Research on algorithms, benchmarking, ...
+% Sage-Combinat: un peu restrictif
+% Mission: “To improve the open source mathematical system \sage as an extensible toolbox for computer exploration in combinatorics and beyond, and foster code sharing between researchers in this area”.
+
+
+\section{Context and scientific theme}
+
+% \TODO{From the application guide: 2 à 3 pages maximum Le contenu de
+%   cette section permet une appréciation selon le premier critère
+%   d’évaluation (Intérêt des objectifs scientifiques et
+%   technologiques).  Donner les informations permettant d’évaluer
+%   l’intérêt des objectifs scientifiques et technologiques, décrire
+%   brièvement la méthodologie et/ou la capacité à générer des
+%   résultats, le potentiel d’avancée dans le domaine, l’ambition, la
+%   nouveauté, le potentiel de rupture.}
+
+Since the 50's computer exploration has been an instrumental tool for
+research in mathematics; in some cases, computers have even used for
+proving results like for the famous four color theorem, or the
+alternating sign matrices conjecture.
+%\TODO{the analogue of telescopes for astrophysicists}.
+To support this, much efforts have been spent on the software
+development. As the sophistication of the required computations
+increased, supported by the boom of the available computational power,
+it was progressively realized that single topic/single person software
+projects, or even projects at the level of a single research team
+simply did not scale. It was essential to share the software
+development at the level of a research community, both in term of
+breath of features and mutualization of development efforts. This lead
+to the apparition in the 90's of many specialized open source
+packages, like GAP for group theory.
+
+Yet, this proved insufficient in many areas like combinatorics, as
+computer exploration often requires simultaneously a wide variety of
+objects and features which only a general purpose software system can
+provide and support. At the same time, the then existing general
+purpose systems like \texttt{Maple} or \texttt{Mathematica} prevented
+the scaling of existing packages because they lacked basic computer
+science paradigms; even more important, they were not open source.
+
+\subsection*{Sage}
+
+To tackle this situation, William Stein started in 2005 the \sage
+project, a free open-source mathematics software system. This project
+soon crystallized a large international community of contributors; now
+more than 300 researchers and teachers in maths and computer
+science. It already played a fundamental role in hundreds of
+scientific publications, and its usage for \texttt{higher education}
+is spreading.
+%
+Building on the very active Python and Scientific Python stack
+combined with the power of dozens of open-source mathematical packages
+(GAP, Singular, or FLINT to name but a few), \sage provides a full
+featured research environment including a rich notebook interface for
+interactive computations and visualization, as well as support for
+intensive batch computations, for example on the cloud. \sage is also
+the computational workhorse behind sister database projects like
+\textsc{LMFDB}, the online database of L-functions, modular forms, and
+related objects.
+
+Thanks to a high level programming framework, most of the code can be
+written generically and reused in widely different contexts, including
+\textbf{physics and computer science}. The induced cross-discipline
+interactions both between developers and with users
+are a regular source of cross fertilization, and already lead to
+several joint research projects.
+
+\sage \textbf{is particularly beneficial for young researchers},
+giving them access to a platform with a wide array of features, and
+allowing them to focus on those computational aspects directly related
+to their own research topic. With, at the end, the possibility and
+incent to contribute back their developments to the community
+\emph{and get credit for it}.
+
+Collaborative software development involves lots of interactions
+within the community, around software and user interface design,
+algorithmic, code review, governance, and maintenance. Those
+interactions are organized using modern collaborative tools for open
+source agile development (distributed version control, mailing lists,
+ticket server, testing tools, ...), and following best practices. A
+strong emphasis is put on training, in particular at the occasion of
+numerous week-long workshops like the upcoming \emph{Sage Days 60} in
+India.
+
+\TODO{B) Les challenges et l'originalité de la solution}
+
+\subsection*{Scaling further toward 2020}
+
+After 10 years of existence, \textbf{\sage has proven its viability
+  and leadership}, surviving the many hurdles faced by new open source
+software projects, reaching a comfortable community size, and proving
+the adequacy of its ``developed by users, for users'' model.  Yet
+\sage has not yet been systematically adopted, and still \textbf{much
+  good research time is wasted developing and redeveloping tools by
+  lack of sharing and coordination}.
+
+By design, the development of \sage runs on a small budget.
+ has been consciously designed to
+run on a small budget. This was a key feature toward its independence
+and its early wide adoption across research teams and international
+frontiers. In particular, it is ``developed by users, for users'':
+most if not all of the development is achieved by the researchers
+themselves and justified w.r.t. their funding institutions by the
+immediate application to their own research projects. Core development
+is taken care of by permanent researchers that can afford to invest
+time over the long run (10 years). Coordination is achieved
+electronically using modern collaborative development tools
+(distributed version control, ticket server, mailing lists, ...).
+Still, it is vital to organize regular physical meetings (missions,
+invitations, workshops) for fast coordination; this becomes even more
+critical when it comes to train massively new developers and users.
+Also, productive software development requires powerful hardware for
+compilation, regression testing, continuous integration,
+benchmarking.
+
+Up to now, all of the above has been funded as an aside of research
+projects (\TODO{cite them}), or through the case by case generosity of
+labs, taken on their recurrent budget (e.g. developers meeting and
+missions funded by the LITIS in Rouen, the LRI and LMO in Orsay,
+... \TODO{expand to the European scale}), but this is reaching its
+limits, with much time wasted on patching together little pieces of
+funding.
+
+In particular, a few but critical long term features have been lagging
+behind because they cannot be split in pieces small enough to be
+implemented as a side product of research projects.  For those, the
+development model needs to be backed up by a small percentage of
+research engineer time.
+
+\textbf{To scale further, \sage needs direct funding in addition to
+  indirect funding through research projects.} Such funding already
+exists in the United States, e.g. with large (500k\$) NSF
+Computational Mathematics grants; the boosting effect of those on the
+community is already shining there (workshops, ICERM semester, many
+new recruits, ...).
+
+\medskip
+\textbf{The purpose of this proposal is to trigger a similar boost in
+  Europe.}
+
+\section{Outreach}
+
+\TODO{C) Les retombées scientifiques et sociétales}
+
+\TODO{Insert this somewhere: Dissemination: Sharing code increases our
+  visibility, spreads our research results to other scientific areas,
+  and benefits education.}
+
+\subsection{Teaching}
+
+We plan to integrate \sage into the curriculum of the courses at our
+universities. Many undergraduate and graduate courses in number theory
+and combinatorics already involve computational components. Moreover,
+since this year, Sage plays an important role in the Agrégation. With
+the dwindling resources at the universities, a free and open-source
+alternative to the currently used systems % such as {\sc Mathematica}
+%and {\sc MatLab}
+is most welcome. Since \sage is based on Python, one of the top five
+programming languages, this also gives the students valuable
+education.  Inspired students can furthermore look at the algorithms
+or even contribute back to \sage.
+
+\TODO{Reuse stuff from the NSF grant}
+
+\section{Consortium}
+
+\TODO{Expand}
+
+The consortium will tentatively have participants in Austria (Linz:
+CS), France (Rouen: CS, Bordeaux: CS, Lyon: math, Marseille: math,
+Marne: CS, Paris: math, CS, physics, Saclay: CS), Germany (Berlin,
+Jena: math), Switzerland (Zürich: math), Great Britain (Bristol:
+math), Ireland (Dublin: physics), Quebec (Montréal, joint lab
+CRM/CNRS: math).
+
+The PI's have developed a strong community building experience which
+they gained in particular along the \textsc{MuPAD-Combinat} project
+(now \sagecombinat) that progressively gathered a community of 42+
+contributers since it's foundation in 2000.
+
+On the French side, the consortium will be built around a core team
+that has been closely collaborating around Sage in France and Québec
+for a long time.
+%Delecroix, Cohen, Labbé, Lelièvre, Hivert, Monteil, Mezzarobba,
+%Saliola, Thiéry.
+In particular they coorganized and participated to a stream of events
+that included (international) developer meetings, training sessions,
+and development of educational material.
+%
+This core team covers a wide continuum of research themes in discrete
+mathematics, dynamical systems, algebra, or number theory, with deep
+connections to neighbor fields like symbolic computations or
+statistical physics. It has developed an international network of
+collaborators that will be involved in the project, including a large
+number of PhD students and postdocs.
+
+\TODO{Expand}
+
+\section{Actions}
+
+\begin{itemize}
+\item Distribution improvements: modularization, integration in the
+  standard Linux distributions, better Windows support;
+\item Documentation improvements: overview, thematic tutorials, cross links;
+\item Workflow improvements: continuous integration, ...
+\item Deployment of preconfigured virtual machines for Sage as a cloud
+  service, in particular with the StratusLab infrastructure.
+\item User interface improvements: interactive widgets, robustness;
+\item Development of a repository of notebooks;
+\item Community animation: training workshops, developers meetings, missions;
+\item Infrastructure work;
+\item And of course more math features according to the needs.
+\item \TODO{Expand!}
+\end{itemize}
+
+
+% \TODO{From the application guide: (1 à 2 pages maximum) Le contenu de
+%   cette section permet une appréciation selon le troisième critère
+%   d’évaluation (Cohérence de la pré-proposition par rapport aux
+%   objectifs du projet) Donner les informations relatives aux
+%   compétences requises pour mener le projet objet de la
+%   pré-proposition, en précisant l’identité du ou des scientifique(s)
+%   impliqué(s), l’identification des Partenaires 4 auxquels il(s)
+%   est(sont) rattaché(s) et 2-3 références pertinentes dans le domaine
+%   en lien direct avec la pré-proposition (publications, faits
+%   marquants de R\&D, brevets, prix scientifiques, produits, procédés,
+%   licences, services...), et tout autre élément permettant de juger de
+%   la qualité des déposants et du consortium le cas échéant.}
+
+% The consortium is built around a core team that has been closely
+% collaborating around Sage in France and Québec for a long time:
+% Delecroix, Cohen, Labbé, Lelièvre, Hivert, Monteil, Mezzarobba,
+% Saliola, Thiéry. In particular they coorganized and participated to a
+% stream of events that included (international) developer meetings,
+% training sessions, and development of educational material:
+% \begin{itemize}
+% \item \href{http://wiki.sagemath.org/GroupeUtilisateursParis}{Groupe
+%     d'utilisateurs Sage en région parisienne}: a monthly meeting;
+%   %Labbé, Hivert, Thiéry, Valibouze, et al.
+% \item \href{http://www.ragaad.org/bobo2012/}{\emph{CIMPA discrete math research school}},
+%     % : «Mathématiques discrètes: aspects combinatoires, dynamiques et algorithmiques»}},
+%     Bobo-Dioulasso (Burkina Faso), Fall 2012;
+%     %Lelièvre, Delecroix, Monteil, Thiéry et al.
+% %\item \href{http://smai.emath.fr/smai2011/programme_slides.php}{\emph{Congrès SMAI}}, Mini-symposium \sage, Guidel May 2011;
+% %  Mezzarobba, Thiéry et al.
+% \item Sage course, \emph{\'Ecole Jeunes Chercheurs Informatique
+%     Math\'ematique}, %April
+%   Perpignan, 2013;
+%   % : Monteil, Cohen,  Delecroix, Lelièvre.
+% \item Three week-long developer meetings in Cernay, Orsay (2009, 2010, 2012);
+%   % Borie, Cohen, Boussicault, Delecroix, Hivert, Labbé, Monteil, Saliola, Thiéry et al.
+% \item \href{http://wiki.sagemath.org/combinat/FPSAC13}{Sage Days 49},  Orsay, %June
+%   2013;
+%   % , Cohen, Hivert, Mezzarobba, Monteil, Thiéry.
+% %\item
+%   \href{http://wiki.sagemath.org/days38}{Sage Days 38}, Montréal, %May
+%   2012;
+%   % , Brlek, Hivert, Labbé, Saliola, Thiéry et al.
+% %\item
+%   \href{http://wiki.sagemath.org/days28}{Sage Days 28}, %: dynamics, geometry, combinatorics},
+%   Orsay, %January
+%   2011;
+%   %, Borie, Cohen, Delecroix, Hivert, Labbé, Lelièvre, Monteil, Thiéry et al.
+% \item \href{https://www.lirmm.fr/arith/wiki/MathInfo2010/SageDays}{\emph{Sage Days 20}},
+%   during the \emph{Math-Info 2010} thematic month at CIRM, Luminy;%, February 2010
+%   % : a one week workshop during the \emph{Math-Info 2010} thematic month at
+%   %CIRM, Luminy, France, February 2010; Delecroix, Hivert, Labbé,
+%   %Monteil, Saliola, Thiéry et al.
+% \item Introductory book «\emph{Calcul Mathématique avec Sage}»,
+%   % Cohen, Thiéry, Mezzarobba contributed a third of the chapters.
+% %\item
+%  Stream of Sage thematic tutorials.
+%   %: Cohen, Labbé, Lelièvre, Hivert, Saliola, Thiéry et al.
+% \end{itemize}
+
+
+%\bibliographystyle{alpha}
+%\bibliography{project-description}
+\end{document}
