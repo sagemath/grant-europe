@@ -48,9 +48,10 @@ users.sf.net) at any time, specifying:
 - Status, institute (I can derive that from the main page of
   trac.sagemath.org if the information there is up to date)
 
-I have setup this git project for this would-be proposal. A mailing
-list is coming too. I will add all the participants there so that they
-can start editing the information.
+I have setup this git project for this would-be proposal, as well as
+a private [mailing list](https://listes.services.cnrs.fr/wws/info/sagemath-grant-europe).
+I will add all the participants there so that theycan start editing
+the information.
 
 Also other grant opportunities can and should be explored
 (e.g. COST networks). And again: if anyone feels like taking on /
