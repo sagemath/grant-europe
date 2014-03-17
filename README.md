@@ -17,12 +17,27 @@ euros) for preparing such proposals, with an application deadline on
 the 21st (this Friday!). This money could be used e.g. to organize a
 Sage-Days this year geared toward this grant (and real work too!).
 
+Scope
+-----
+
 European H2020 calls concern countries in Europe as well as associated
 countries and third countries as listed
 [there](http://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/international-cooperation_en.htm). Just
 to mention a couple where I can think of Sage developers and users
 from the top of my head, this includes e.g. Switzerland, Israel,
 Senegal, or South Africa.
+
+The current [Sketch of project description](project-description.tex)
+grew up from previous attempts at the scale of Sage-Combinat in
+France; there remains traces which should of course be cleared! At
+this point, the themes of the grant are widely open: research &
+teaching in all branches of mathematics and related fields where Sage
+could be useful, user interface, data, ... We should start from what
+the participants will propose, or better offer workforce for, and then
+see how to make it coherent.
+
+Join!
+-----
 
 If you would tentatively be interested in joining as a participant,
 PI, or even better lead PI, please get in touch with me (nthiery at
@@ -37,13 +52,14 @@ I have setup this git project for this would-be proposal. A mailing
 list is coming too. I will add all the participants there so that they
 can start editing the information.
 
-The draft of project grew up from previous attempts at the scale of
-Sage-Combinat in France; there remains traces which should of course
-be cleared! Also other grant opportunities can and should be explored
+Also other grant opportunities can and should be explored
 (e.g. COST networks). And again: if anyone feels like taking on /
 sharing the lead, please!!!
 
-- [Draft of project description](project-description.tex),
+Files
+-----
+
+- [Sketch of project description](project-description.tex),
   [PDF](project-description.pdf)
 
 - [Information about the call, Todo list, ...](TODO.org)
