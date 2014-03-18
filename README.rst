@@ -63,7 +63,7 @@ lead, please!!!
 Files
 -----
 
-- `Information about the call and ToDo list, ...<TODO.org>`_
+- `Information about the call and ToDo list <TODO.org>`_
   This is best viewed/edited using org-mode
 
 - `Sketch of project description <project-description.tex>`_,
