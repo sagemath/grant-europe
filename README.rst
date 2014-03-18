@@ -39,6 +39,8 @@ see how to make it coherent.
 Join!
 -----
 
+[Consortium (in building)](consortium.rst)
+
 If you would tentatively be interested in joining as a participant,
 PI, or even better lead PI, please get in touch with me (nthiery at
 users.sf.net) at any time, specifying:
