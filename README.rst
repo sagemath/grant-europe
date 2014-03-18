@@ -22,12 +22,12 @@ Scope
 
 European H2020 calls concern countries in Europe as well as associated
 countries and third countries as listed
-[there](http://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/international-cooperation_en.htm). Just
-to mention a couple where I can think of Sage developers and users
-from the top of my head, this includes e.g. Switzerland, Israel,
+`here <http://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/international-cooperation_en.htm>`_.
+Just to mention a couple where I can think of Sage developers and
+users from the top of my head, this includes e.g. Switzerland, Israel,
 Senegal, or South Africa.
 
-The current [Sketch of project description](project-description.tex)
+The current `Sketch of project description <project-description.tex>`_
 grew up from previous attempts at the scale of Sage-Combinat in
 France; there remains traces which should of course be cleared! At
 this point, the themes of the grant are widely open: research &
@@ -39,7 +39,7 @@ see how to make it coherent.
 Join!
 -----
 
-[Consortium (in building)](consortium.rst)
+`Consortium (in building) <consortium.rst>`_
 
 If you would tentatively be interested in joining as a participant,
 PI, or even better lead PI, please get in touch with me (nthiery at
@@ -51,7 +51,7 @@ users.sf.net) at any time, specifying:
   trac.sagemath.org if the information there is up to date)
 
 I have setup this git project for this would-be proposal, as well as
-a private [mailing list](https://listes.services.cnrs.fr/wws/info/sagemath-grant-europe).
+a private `mailing list <https://listes.services.cnrs.fr/wws/info/sagemath-grant-europe>`_.
 I will add all the participants there so that theycan start editing
 the information.
 
@@ -62,10 +62,10 @@ sharing the lead, please!!!
 Files
 -----
 
-- [Sketch of project description](project-description.tex),
-  [PDF](project-description.pdf)
+- `Sketch of project description <project-description.tex>`_,
+  `PDF <project-description.pdf>`_
 
-- [Information about the call, Todo list, ...](TODO.org)
+- `Information about the call, Todo list, ...<TODO.org>`_
   This is best viewed/edited using org-mode
 
-- [Thread on sage-devel](https://groups.google.com/d/msg/sage-devel/zW8vHUI1PEw/SOl3lQrS08YJ)
+- `Thread on sage-devel <https://groups.google.com/d/msg/sage-devel/zW8vHUI1PEw/SOl3lQrS08YJ>`_
