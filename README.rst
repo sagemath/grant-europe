@@ -39,33 +39,38 @@ see how to make it coherent.
 Join!
 -----
 
-`Consortium (in building) <consortium.rst>`_
+`Consortium (in building) <consortium.tex>`_
 
-If you would tentatively be interested in joining as a participant,
-PI, or even better lead PI, please get in touch with me (nthiery at
-users.sf.net) at any time, specifying:
+If you are tentatively interested in joining as a participant, PI, or
+even better lead PI, please join the mailing list `mailing list
+<https://listes.services.cnrs.fr/wws/info/sagemath-grant-europe>`_,
+and send an e-mail there with:
 
-- trac & github account if you have them
 - Name, e-mail
-- Status, institute (I can derive that from the main page of
-  trac.sagemath.org if the information there is up to date)
+- Status, institute
+- trac & github account if you have them
+- Whatever ideas you may have for the project
 
-I have setup this git project for this would-be proposal, as well as
-a private `mailing list <https://listes.services.cnrs.fr/wws/info/sagemath-grant-europe>`_.
-I will add all the participants there so that theycan start editing
-the information.
+I will add you to the collaborators on this githup project so that you
+can start editing the information. In particular, check and edit the
+information in the `consortium <consortium.tex>`_ and `target feature
+<target_feature.tex>`_.
 
-Also other grant opportunities can and should be explored
-(e.g. COST networks). And again: if anyone feels like taking on /
-sharing the lead, please!!!
+Other grant opportunities can and should be explored (e.g. COST
+networks). And again: if anyone feels like taking on / sharing the
+lead, please!!!
 
 Files
 -----
 
+- `Information about the call and ToDo list, ...<TODO.org>`_
+  This is best viewed/edited using org-mode
+
 - `Sketch of project description <project-description.tex>`_,
   `PDF <project-description.pdf>`_
 
-- `Information about the call, Todo list, ...<TODO.org>`_
-  This is best viewed/edited using org-mode
+- `Tentative consortium <consortium.tex>`_
+
+- `Tentative target features <target_feature.tex>`_.
 
 - `Thread on sage-devel <https://groups.google.com/d/msg/sage-devel/zW8vHUI1PEw/SOl3lQrS08YJ>`_
