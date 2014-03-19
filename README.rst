@@ -23,7 +23,9 @@ Time line
 ---------
 
 Friday March 21st 2014: Application for financial support to prepare the proposal [1]
+
 January 2015: Proposal submission
+
 September 2015: Start
 
 [1] The CNRS INS2I institute is offering support (up to 5000 euros)
