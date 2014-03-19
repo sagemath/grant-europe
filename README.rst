@@ -7,9 +7,13 @@ Sage. From those discussions, it seems a good bet could be the call
 EINFRA-9: e-Infrastructure for Virtual Research Environment.
 
 The purpose would be to have a regular source of funding for:
+
 - Sage Days and smaller developers meetings,
+
 - Research engineers, students, postdocs (?), etc spending time on Sage development,
+
 - Hardware,
+
 - Possibly: subcontracting to other projects, buying teaching reliefs, ...
 
 Other grant opportunities can and should be explored (e.g. COST
