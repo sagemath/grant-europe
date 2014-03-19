@@ -2,9 +2,9 @@ Grant application files for a potential European H2020 grant around Sage
 ========================================================================
 
 At the occasion of a presentation of the European H2020 call for
-grants, I (Nicolas M. Thiéry) started discussing opportunities for
-Sage. From those discussions, it seems a good bet could be the call
-EINFRA-9: e-Infrastructure for Virtual Research Environment.
+grants, I (Nicolas M. Thiéry) started discussing opportunities for the
+Sage ecosystem. From those discussions, it seems a good bet could be
+the call EINFRA-9: e-Infrastructure for Virtual Research Environment.
 
 The purpose would be to have a regular source of funding for:
 
