@@ -2,6 +2,41 @@ e-Infrastructure for Virtual Research Environments -*- mode: org; -*-
 
 #+FILETAGS: :Sage:Financement:
 
+* TODO Consortium
+** Contact
+
+   - [ ] LMFDB
+   - [ ] Linbox (Dumas / )
+   - [ ] Simon
+   - [ ] Volker
+   - [ ] Harald Schilly
+   - [X] francois.bissey@canterbury.ac.nz
+   - [X] Jeroen
+   - [X] Jeroen
+   - [X] Puydt
+   - [X] sstarosta - Stepan Starosta (Czech Technical University in Prague, Czech Republic)
+	 Vincent
+   - [X] Thierry Coulbois
+
+   - [X] Manuels Kauers, ... RISC
+   - [X] Ralph Hemmecke
+   - [X] Burcin Erocal
+   - [X] François Bissey
+   - [X] Martin Rubey
+   - [X] Timo Jolivet
+         (Vincent)
+   - [X] Paul Mercat
+         (Vincent)
+
+   - [ ] Emil
+   - [ ] Jan Groenwald
+   - [ ] Christoph Sorger
+
+   - [X] Mail Laurent Absieger responsable LIRCO
+   - [ ] debian-science
+
+** GAP, Singular, Pari
+
 * Call 3 Topic 9-2015 EINFRA-9: e-Infrastructure for Virtual Research Environment
 ** Suggested EU contribution per proposal: 2 to 8 M€ ; Total budget: 42 M€
 ** Dates: 14/01/2015
