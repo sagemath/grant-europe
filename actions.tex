@@ -1,6 +1,5 @@
 \section{Actions}
 
-\TODO{"Community animation and training" is very close to "Dissemination and teaching"}
 
 \subsection{Community animation and training}
 
@@ -17,29 +16,41 @@
 \subsection{Collaborative tools}
 
 \begin{itemize}
-\item Development of a database of notebooks
+\item Development of a database of notebooks \TODO{Be clearer: we want to get rid of notebooks over the filesystem and .sws tarball}
 \item Workflow improvements: continuous integration, ...
 \item \TODO{please expand!}
+\item foster collaboration with upstream libraries by sharing the development
+  and maintenance of the interface (as a standalone Python bindings)
 \end{itemize}
 
-\subsection{Infrastructure}
+%\TODO{lmonade has very similar objectives but uses the gentoo prefix whereas Linux distributions use very different packaging systems:
+%\begin{itemize}
+%\item gentoo prefix (gentoo)
+%\item pacman (arch),
+%\item yum (redhat),
+%\item apt (debian),
+%\item easy\_install
+%\item Python index packaging (pip)
+%\end{itemize}}
 
+\subsection{Modularization of the Sage distribution}
+Separation of the different components of Sage (communication with third-party softwares, build system, Sage native code code). This is a prerequisite for easier packaging and integration in standard Linux distributions and lmonade, native integration within the IPython notebook and other interfaces (larchenv, Spyder, ...) and collaboration with sister projects.
+
+\subsection{Deployment}
 \begin{itemize}
-\item Modularization of the Sage distribution; Sage as a Python library
-\item Packaging and integration in standard Linux distributions
 \item Better Windows support
 \item Live USB keys
- % http://sagedebianlive.metelu.net/
 \item Creation, deployment, and distribution of preconfigured virtual
-  machines for Sage as a cloud service, in particular within the
-  StratusLab infrastructure.
-\item User interfaces improvements: interactive widgets, robustness
-\item Better integration with the IPython notebook
-\item Exploration of alternative notebook environments like larchenv,
-  Spyder, ...
-\item Improved interfaces to other systems
-\item Support for \href{http://www.symbolic-computing.org/}{SCSCP}
-\item \TODO{please expand!}
+machines for Sage as a cloud service, in particular within the
+StratusLab infrastructure.
+\end{itemize}
+ % http://sagedebianlive.metelu.net/
+
+\subsection{Other technical}
+
+\begin{itemize}
+\item support for \href{http://www.symbolic-computing.org/}{SCSCP}
+\item \TODO{expand}
 \end{itemize}
 
 \subsection{Dissemination and teaching}
