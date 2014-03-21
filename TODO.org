@@ -118,8 +118,9 @@ Conversion to docx:
   \sage -> \sage{}
   \TODO -> {}
   pandoc -t docx project-description.tex -o project-description.docx
+  justification gauche et droite
   marges: 2cm
-  fontes * 80%
+  fontes 11pt
   Check that the first section fits on the first page
   Check that the document fits in five pages
 ** Results
