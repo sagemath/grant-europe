@@ -36,7 +36,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \title[SageMath in Europe]{SageMath in Europe: Mutualized development\\
   of computer exploration environment\\
-  for research in combinatorics, algebra, and beyond
+  for research in mathematics
 }
 % Titre français:
 % Développent logiciel mutualisé pour la recherche en combinatoire et au delà
@@ -83,7 +83,7 @@ paradigms, general purpose systems like \texttt{Maple} or
 efforts.
 
 To tackle this situation, William Stein started in 2005 the
-\textbf{\sage project, a free open-source mathematics software
+\textbf{\sage{} project, a free open-source mathematics software
   system}. It provides a full featured \textbf{research environment},
 including a rich notebook interface for interactive computations and
 visualization, collaborative work on the cloud, or intensive batch
@@ -138,7 +138,7 @@ recruits, ...).
 \sage already plays a fundamental role in hundreds of scientific
 publications and triggers cross-fertilization across disciplines. Its
 usage for \texttt{higher education} is spreading. Those benefits will
-be boosted to the measure of \sage.  The project will further
+be boosted to the measure of \sage{}.  The project will further
 contribute back specialized and general purpose tools to the
 Scientific Python ecosystem which is used intensively by both the
 academic and industrial worlds.
@@ -182,7 +182,7 @@ purpose systems like \texttt{Maple} or \texttt{Mathematica} prevented
 the scaling of existing packages because they lacked basic computer
 science paradigms; even more important, they were not open source.
 
-\subsection*{Originality of the Sage project}
+%\subsection*{Originality of the Sage project}
 
 To tackle this situation, William Stein started in 2005 the \textbf{\sage
 project, a free open-source mathematics software system}. This project
@@ -226,7 +226,7 @@ strong emphasis is put on training, in particular at the occasion of
 numerous week-long workshops like the upcoming \emph{Sage Days 60} in
 India.
 
-\subsection*{Scaling further toward 2020}
+\section{Scaling further toward 2020}
 
 After 10 years of existence, \textbf{\sage has proven its viability
   and leadership}, surviving the many hurdles faced by new open source
@@ -248,18 +248,17 @@ time over the long run (10 years). Coordination is achieved
 electronically using modern collaborative development tools
 (distributed version control, ticket server, mailing lists, ...).
 
-So far, \sage has been running viabily on a small budget for its size (300
-developers), thanks to its ``developed by users for users'' model. Yet,
-long term non mathematical features have been lagging behind because they cannot be
-split in pieces small enough to be implemented as a side product of research
-projects: portability (including native Windows support), build infrastructure
-and modularization, packaging and distribution, improved user interfaces, core
-support for parallelism. Those features are critical to let \sage scale to
-mainstream and assume its leadership.
-\TODO{FINISH THIS SENTENCE}
-\textbf{For those, the
-development model needs to be backed up by full time research
-ingeneers}.
+So far, \sage has been running viabily on a small budget for its size
+(300 developers), thanks to its ``developed by users for users''
+model. Yet, long term non mathematical features have been lagging
+behind because they cannot be split in pieces small enough to be
+implemented as a side product of research projects: portability
+(including native Windows support), build infrastructure and
+modularization, packaging and distribution, improved user interfaces,
+core support for parallelism, large data support, ... Those features
+are critical to let \sage scale to mainstream and assume its
+leadership. To this end, \textbf{the development model needs to be
+  backed up by full time research ingeneers}.
 
 It is also vital to organize regular physical meetings (missions,
 invitations, workshops) for fast coordination; this becomes even more
@@ -314,46 +313,44 @@ or even contribute back to \sage.
 
 \section{Consortium}
 
-\TODO{Expand}
+By design, \sage is developed by a community of indivivally involved
+researchers, transversely to the institutions. They form a geographically
+dispersed group of people, whose fields of expertise cover a wide continuum of
+research themes in discrete mathematics, dynamical systems, geometry, algebra,
+or number theory, with deep connections to neighbor fields like symbolic
+computations or statistical physics.
+%
+% With that respect, the french situation an isolated case.
+%
+% TODO : reutiliser l'argument de dispersion pour le dev d'infrastructures
+% collaboratives a distance.
 
-The PI's have developed a strong community building experience which
-they gained in particular along the \textsc{\sagecombinat} project
-(formerly MuPAD-Combinat) that progressively gathered a worldwide
-community of 42+ contributers since it's foundation in 2000. They have
-developed an international network of collaborators that will be
-involved in the project, including a large number of PhD students and
-postdocs.
 
-The consortium will tentatively have participants in Austria (Linz:
-\CS, Wien: \CS), France (Rouen: \CS, Bordeaux: \CS, Lyon: math,
-Marseille: math, Marne: \CS, Paris: math, \CS, physics, Saclay: \CS),
-Germany (Hannover: math, Berlin, Jena: math), Switzerland (Zürich:
-math), Great Britain (Bristol: math, Oxford, Bristol), Ireland
-(Dublin: physics), Québec (Montréal, joint lab CRM/CNRS: math).
+In France, a core team has been closely collaborating around Sage for a long time.
+%Delecroix, Cohen, Labbé, Lelièvre, Hivert, Monteil, Mezzarobba, Saliola,
+%Thiéry.
+In particular, they coorganized and participated to a stream of events that
+included (international) developer meetings, user group meetings, training
+sessions (Burkina Faso, France, Québec), and development of educational
+material.
 
-On the French side, the consortium will be built around a core team
-that has been closely collaborating around Sage in France and Québec
-for a long time.
-%Delecroix, Cohen, Labbé, Lelièvre, Hivert, Monteil, Mezzarobba,
-%Saliola, Thiéry.
-In particular they coorganized and participated to a stream of events
-that included (international) developer meetings, training sessions,
-and development of educational material.
+The \textsc{\sagecombinat} project, a strong international community of
+collaborators founded in 2000 that focusses on combinatorics, will be involved
+in the project, including a large number of PhD students and postdocs.
 
-The participants, which by the very nature of the projects are
-dispersed, cover a wide continuum of research themes in discrete
-mathematics, dynamical systems, algebra, or number theory, with deep
-connections to neighbor fields like symbolic computations or
-statistical physics.
-
-\TODO{Expand}
+The European consortium, in building, aims at scaling this dynamics and
+experience in both geographical and thematic directions.
+%
+We already got positive feedback and engagement of researchers from Austria
+(Linz, Wien: \CS), France (Rouen, Bordeaux, Marne, Saclay: \CS ; Lyon,
+Marseille: math ; Paris: math, \CS, physics), Germany (Hannover, Berlin, Jena:
+math), Switzerland (Zürich: math), Great Britain (Oxford, Bristol: math),
+Ireland (Dublin: physics), Québec (Montréal, joint lab CRM/CNRS: \CS, math).
 
 \input{actions}
 
-\section{Budget}
+\section{Tentative budget}
 
-\subsection{Tentative budget}
-\ \\
 \begin{tabular}{|l|r|}\hline
   Research engineer (5 pers for 5 years)                       & 1250k\euro          \\\hline
   Postdoc           (2 pers for 5 years)                       &  400k\euro\\\hline
