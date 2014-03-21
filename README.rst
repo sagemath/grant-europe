@@ -26,7 +26,7 @@ Time line
 - January 2015: Proposal submission
 - September 2015: Start
 
-[1] The CNRS INS2I institute is offering support (up to 5000 euros)
+[1] The CNRS INS2I institute is `offering support <http://www.cnrs.fr/ins2i/spip.php?article669>`_ (up to 5000 euros)
 for preparing such proposals. This money could be used e.g. to
 organize a Sage Days this year geared toward this grant (and real work
 too!). To apply for such support we need to file a 3-5 page draft with

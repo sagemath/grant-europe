@@ -3,17 +3,6 @@ e-Infrastructure for Virtual Research Environments -*- mode: org; -*-
 #+FILETAGS: :Sage:Financement:
 
 * TODO Consortium
-** Contact
-
-   - [ ] LMFDB
-   - [ ] Linbox (Dumas / )
-   - [ ] Simon
-   - [ ] Volker
-   - [ ] Harald Schilly
-   - [ ] Emil
-   - [ ] Jan Groenwald
-   - [ ] debian-science
-
 ** GAP, Singular, Pari
 
 * Call 3 Topic 9-2015 EINFRA-9: e-Infrastructure for Virtual Research Environment
