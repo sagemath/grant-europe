@@ -11,7 +11,7 @@ e-Infrastructure for Virtual Research Environments -*- mode: org; -*-
 - H2020-EINFRA-2014-2 02/09/2014
 - H2020-EINFRA-2015-1 14/01/2015(tbc)
 ** European contacts: Antonios Barbas
-   See file:Contacts.docx
+   See file:Documentation/Contacts.docx
 ** Definition:
 - Groups of researchers, typically widely dispersed, who are working
   together
@@ -100,7 +100,7 @@ Notations: [X]: easy to argue; [?]: we have some lead, but that will take some a
   - http://ec.europa.eu/research/participants/portal/
   - http://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/topics/2144-einfra-9-2015.html
   - http://ec.europa.eu/digital-agenda/en/news/information-days-horizon-2020-research-infrastructures-work-programme-2014-2015-focus-e
-  - file:SubmissionAndEvaluation.ppt
+  - file:Documentation/SubmissionAndEvaluation.ppt
 * TODO Choose an acronym
 * WAIT Support from CNRS's INS2I for preparing an application
   http://www.cnrs.fr/ins2i/spip.php?article669
@@ -131,10 +131,10 @@ Notations: [X]: easy to argue; [?]: we have some lead, but that will take some a
     2. Les challenges et l'originalité de la solution
     3. Les retombées scientifiques et sociétales
 
-    file:Thiery-Sage-H2020-2014.docx
+    file:Documentation/SupportFromINS2I/Thiery-Sage-H2020-2014.docx
 
   - Les données relatives aux participants du projet (Feuille Excel).
-    file:Thiery-Sage-h2020-2014.xls
+    file:SupportFromINS2I/Thiery-Sage-h2020-2014.xls
 * Suggestions from Eugénia Shadlova (european projects service at Université Paris Sud)
 0. La préexistence d'une communauté est un bon point
 
