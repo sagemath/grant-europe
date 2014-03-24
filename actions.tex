@@ -1,12 +1,9 @@
 \section{Actions}
-
-
-
 \subsection{Collaborative tools}
 
 \begin{itemize}
-\item Development of an online repository for sharing notebooks and
-  other Sage resources
+\item Development of an online repository for indexing and sharing
+  notebooks and other Sage resources.
   %\TODO{Be clearer: we want to get rid of notebooks over the
   %  filesystem and .sws tarball}
 \item Workflow improvements: continuous integration, ...
@@ -17,7 +14,19 @@
   % I think such a module can be thought of as a screen-capturing
   % module, i.e. allow Ekiga to capture the screen of a Sage user (this
   % is currently not possible).  This is not a difficult task to do.
-  % NT: assuming read and write access is possible
+  % Julien Puydt: ekiga can do that since something like 2008 with my
+  % experimental gstreamer plugin, and I shall be able to present
+  % interesting sample code to the ekiga-devel mailing-list in something
+  % like two-three weeks (after I'm done with my students), which will
+  % hopefully be part of the next version.
+  %
+  % But as Nicolas noted in his answer, some kind of interative session
+  % where people can share a sage session would be better.
+  %
+  % I think the feature decomposes in the following pieces:
+  % - IPython should have a way to share sessions between several
+  %   participants using an open and standard protocol ;
+  % - ekiga should implement it.
 
   % Eugen Dedu:
   % In my opinion ekiga, because of its dependency on ptlib and opal
@@ -74,10 +83,12 @@ StratusLab infrastructure.
   French math aggregation (starting from 2015, only open-source
   systems will be supported, and Sage is a major player).
   % See http://nicolas.thiery.name/Enseignement/Agregation/ as a starter
-\item indexation of notebooks and tutorials in a database accessible through a
-  web interface
+\item Localization of the \sage user interface and key documents in
+  various European languages.
+\item Distribution of the documents either in the main distribution of
+  Sage or through the online repository (see collaborative tools).
 \item Massive online introduction course to Sage, drawing on the sage tutorial/notebooks.
-Could be "First year \sage course in a box"
+Could be "First year \sage course in a box".
 %\item \TODO{please expand!}
 \end{itemize}
 
@@ -95,12 +106,15 @@ Could be "First year \sage course in a box"
 
 \begin{itemize}
 \item Sage Days (training workshops and developers meetings)
+  \begin{itemize}
+  \item \TODO{<put suggestions of locations / dates here>}
+  \end{itemize}
 \item Exchange visits for students, researchers, ... in between
   partner institutions, and with developers worldwide
 \item Strengthening of collaborations with sister projects: GAP,
   Linbox, Singular, PARI/GP, IPython, Scientific Python, R, to name but a
   few.
-%\item \TODO{please expand}
+\item \TODO{please expand}
 \end{itemize}
 
 
