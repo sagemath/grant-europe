@@ -104,6 +104,12 @@ Notations: [X]: easy to argue; [?]: we have some lead, but that will take some a
 * TODO Choose an acronym
 * WAIT Support from CNRS's INS2I for preparing an application
   http://www.cnrs.fr/ins2i/spip.php?article669
+  The CNRS INS2I institute is offering support (up to 5000 euros) for
+  preparing such proposals. This money could be used e.g. to organize
+  a Sage Days this year geared toward this grant (and real work
+  too!). To apply for such support we need to file a 3-5 page draft
+  with a tentative list of partner institutions and number of
+  participant in each of them.
 ** Submission
    DEADLINE: <2014-03-21 ven.>
   Les propositions doivent être soumises par email à Michel Renovell,
