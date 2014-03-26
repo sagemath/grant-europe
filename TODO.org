@@ -2,6 +2,7 @@ e-Infrastructure for Virtual Research Environments -*- mode: org; -*-
 
 #+FILETAGS: :Sage:Financement:
 
+* TODO Aide à la rédaction
 * TODO Consortium
 ** Get in touch with GAP, Singular, Pari, ...
 * Call 3 Topic 9-2015 EINFRA-9: e-Infrastructure for Virtual Research Environment
@@ -175,6 +176,15 @@ Notations: [X]: easy to argue; [?]: we have some lead, but that will take some a
    combinatoire, qui seront des end-users de votre logiciel, et de
    préférence quelques grands noms.
 
+* Conseils Violaine Louvet (Université Lyon I)
+  - Bien lire les annexes pour les points à mettre en valeur dans le dossier
+  - Demander de l'aide à la rédaction:
+    - à la délégation CNRS
+    - à l'INSMI (demander directeur administratif)
+  - Faire remonter les besoins en termes de financements; en
+    particulier demandes pour faire adapter la formulation des appels
+    à projets (2016, ...) pour que l'on rentre bien.
+  - Positionnement par rapport à Python Scientifique / calcul numérique
 * Meeting with the infrastructure PCN of the french ministry of research
   <2014-02-10 lun. 16:00-17:00>
   JEAN-PIERRE CAMINADE <jean-pierre.caminade at recherche.gouv.fr>
