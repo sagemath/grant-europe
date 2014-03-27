@@ -23,6 +23,18 @@ The purpose would be to have a regular source of funding for:
 Other grant opportunities can and should be explored (e.g. COST
 networks).
 
+REPOSITORY MOVED (March 27-th of 2014)
+--------------------------------------
+
+This git repository has just been moved to
+https://github.com/sagemath/grant-europe
+
+If you have a working copy of the previous one, please change the
+origin repository with:
+
+    git remote remove origin
+    git remote add origin git@github.com:sagemath/grant-europe.git
+
 Time line
 ---------
 
