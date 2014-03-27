@@ -30,7 +30,7 @@ This git repository has just been moved to
 https://github.com/sagemath/grant-europe
 
 If you have a working copy of the previous one, please change the
-origin repository with:
+origin repository with::
 
     git remote remove origin
     git remote add origin git@github.com:sagemath/grant-europe.git
