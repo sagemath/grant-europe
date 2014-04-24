@@ -26,8 +26,7 @@ The purpose would be to have a regular source of funding for:
 Other grant opportunities can and should be explored (e.g. COST
 networks).
 
-`Sketch of project description <project-description.tex>`_, `PDF
-  <project-description.pdf>`_
+`Sketch of project description <project-description.pdf>`_
 
 Time line
 ---------
@@ -87,8 +86,8 @@ Files
 - `Information about the call and ToDo list <TODO.org>`_
   This is best viewed/edited using org-mode
 
-- `Sketch of project description <project-description.tex>`_,
-  `PDF <project-description.pdf>`_
+- `Sketch of project description <project-description.pdf>`_
+  (`TeX source <project-description.tex>`_)
 
    Note: this sketch grew up from previous attempts at the scale of
    Sage-Combinat in France; there remains traces of it which should of
