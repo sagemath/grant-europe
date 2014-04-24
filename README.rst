@@ -8,9 +8,12 @@ the call EINFRA-9: e-Infrastructure for Virtual Research Environment.
 
 The purpose would be to have a regular source of funding for:
 
-- Research engineers, students, etc working on the Sage ecosystem at large,
+- Research engineers, students, etc working on the Sage ecosystem at
+  large, with a focus on those general purpose technical tasks that
+  don't fit well in the "developed by users for users" model and thus
+  can't be funded indirectly through usual research grants.
 
-- Sage Days and smaller developers meetings, visits, ...
+- Sage Days and smaller developers meetings, training sessions, visits, ...
 
 - Hardware,
 
@@ -23,23 +26,15 @@ The purpose would be to have a regular source of funding for:
 Other grant opportunities can and should be explored (e.g. COST
 networks).
 
-REPOSITORY MOVED (March 27-th of 2014)
---------------------------------------
-
-This git repository has just been moved to
-https://github.com/sagemath/grant-europe
-
-If you have a working copy of the previous one, please change the
-origin repository with::
-
-    git remote remove origin
-    git remote add origin git@github.com:sagemath/grant-europe.git
+`Sketch of project description <project-description.tex>`_, `PDF
+  <project-description.pdf>`_
 
 Time line
 ---------
 
 - January 2015: Proposal submission
 - September 2015: Start
+- Duration: ???
 
 Scope
 -----
@@ -50,15 +45,17 @@ Just to mention a couple where I can think of Sage developers and
 users from the top of my head, this includes e.g. Switzerland, Israel,
 Senegal, or South Africa.
 
-The current `Sketch of project description <project-description.tex>`_
-grew up from previous attempts at the scale of Sage-Combinat in
-France; there remains traces which should of course be cleared! At
-this point, the themes and actions of the would-be proposal are widely
-open: research & teaching in all branches of mathematics and related
-fields where Sage could be useful, user interface, data, ... We should
-start from what the participants will propose, or better offer
-workforce for, and then see how to make it coherent. See and edit the
-`Tentative target features and actions <actions.tex>`_ file.
+At this point, the perimeter, themes, and actions of the would-be
+proposal are widely open: research & teaching in all branches of
+mathematics and related fields where Sage could be useful, user
+interface, database, collaborative research tools, ... The difficulty
+will be to define what we mean by ``e-Infrastructure for Virtual
+Research Environment'' in our context.
+
+I believe we should start from the potential concrete actions that the
+participants will propose, or better offer workforce for, and then see
+how to make it coherent. See and edit the `Tentative target features
+and actions <actions.tex>`_ file.
 
 
 Join!
@@ -92,6 +89,10 @@ Files
 
 - `Sketch of project description <project-description.tex>`_,
   `PDF <project-description.pdf>`_
+
+   Note: this sketch grew up from previous attempts at the scale of
+   Sage-Combinat in France; there remains traces of it which should of
+   course be cleared.
 
 - `Tentative consortium <consortium.tex>`_
 

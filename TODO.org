@@ -111,8 +111,9 @@ Notations: [X]: easy to argue; [?]: we have some lead, but that will take some a
   too!). To apply for such support we need to file a 3-5 page draft
   with a tentative list of partner institutions and number of
   participant in each of them.
-** Submission
+** DONE Submission
    DEADLINE: <2014-03-21 ven.>
+   - State "DONE"       from ""           [2014-03-27 jeu. 23:31]
   Les propositions doivent être soumises par email à Michel Renovell,
   délégué scientifique, avec copie à Corinne Poulain.
   Michel.Renovell(at)cnrs-dir.fr
@@ -129,7 +130,7 @@ Notations: [X]: easy to argue; [?]: we have some lead, but that will take some a
   Check that the first section fits on the first page
   Check that the document fits in five pages
 ** Results
-   SCHEDULED: <2014-04-15 mar.>
+   <2014-04-15 mar.>
 ** Application file
   - La description thématique et scientifique du projet (Document Word)
     3-5 pages
@@ -189,3 +190,14 @@ Notations: [X]: easy to argue; [?]: we have some lead, but that will take some a
   <2014-02-10 lun. 16:00-17:00>
   JEAN-PIERRE CAMINADE <jean-pierre.caminade at recherche.gouv.fr>
   PCRI, accueil du bâtiment
+* DONE Check point
+  DEADLINE: <2014-04-21 lun.>
+  - State "DONE"       from "TODO"       [2014-04-24 jeu. 09:17]
+
+  Laurent Habsieger (head of the CRM/CNRS Unité Mixte de Recherche in
+  Montreal) meets on May 1st with the other UMI heads in Washington,
+  with a representative of the European Union, and can discuss the
+  project with them. He would like to read a synthesis of the project
+  a good week before.
+* Meeting with Eugenia
+  <2014-04-24 jeu. 14:00-15:00>
