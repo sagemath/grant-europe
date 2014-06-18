@@ -2,7 +2,6 @@ e-Infrastructure for Virtual Research Environments -*- mode: org; -*-
 
 #+FILETAGS: :Sage:Financement:
 
-* TODO Aide à la rédaction
 * TODO Consortium
 ** Get in touch with GAP, Singular, Pari, ...
 * Call 3 Topic 9-2015 EINFRA-9: e-Infrastructure for Virtual Research Environment
@@ -103,7 +102,8 @@ Notations: [X]: easy to argue; [?]: we have some lead, but that will take some a
   - http://ec.europa.eu/digital-agenda/en/news/information-days-horizon-2020-research-infrastructures-work-programme-2014-2015-focus-e
   - file:Documentation/SubmissionAndEvaluation.ppt
 * TODO Choose an acronym
-* WAIT Support from CNRS's INS2I for preparing an application
+* DONE Support from CNRS's INS2I for preparing an application
+  - State "DONE"       from "DONE"       [2014-04-24 jeu. 15:43]
   http://www.cnrs.fr/ins2i/spip.php?article669
   The CNRS INS2I institute is offering support (up to 5000 euros) for
   preparing such proposals. This money could be used e.g. to organize
@@ -201,3 +201,26 @@ Notations: [X]: easy to argue; [?]: we have some lead, but that will take some a
   a good week before.
 * Meeting with Eugenia
   <2014-04-24 jeu. 14:00-15:00>
+  5-7 work package (including project management)
+  each work package with a leading institution
+  each work package split into 2-5/6 tasks
+  un livrable et milestones typiquement liées aux tâches
+
+  Durée: 3-4 ans, possibilité d'extension à budget égal si bonne
+  raison (événement imprévu)
+
+  Salaires des ingénieurs?
+
+  Embauchés directement par les établissements partenaires, en suivant
+  leur politique de salaire. Exemple pour PSud:
+
+  Postdoc: 4200 brut chargé
+
+  Ingénieur: 4500 brut chargé, 2500 euros
+
+  Coûts indirects:
+  - Paris-Sud prend 14%
+  - Le LRI prélève ...
+  - Le reste est disponible et est souple d'utilisation
+
+  Frais open access gold éligibles
