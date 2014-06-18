@@ -98,3 +98,6 @@ Files
 - `Tentative target features and actions <actions.tex>`_.
 
 - `Original thread on sage-devel <https://groups.google.com/d/msg/sage-devel/zW8vHUI1PEw/SOl3lQrS08YJ>`_
+
+- `A draft of mind map <http://sage.math.washington.edu/home/nthiery/MindMap.html>`_
+  (`Sources  <MindMap.mm>`_ to be edited with `freeplane <http://freeplane.sourceforge.net/wiki/index.php/Main_Page>`_)
