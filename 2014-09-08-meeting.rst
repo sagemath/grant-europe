@@ -1,8 +1,8 @@
 Preparatory meeting for the Sagemath European H2020 grant application
 =====================================================================
 
-Date
-====
+Dates
+=====
 
 September 08 and 09 of 2014
 
@@ -11,7 +11,7 @@ Purpose
 
 Brainstorm on the precise scope and consortium for our upcoming
 `Sagemath European H2020 grant application
-<https://github.com/sagemath/grant-europe/>`, start writing the
+<https://github.com/sagemath/grant-europe/>`_, start writing the
 proposal, and split the work.
 
 Location
