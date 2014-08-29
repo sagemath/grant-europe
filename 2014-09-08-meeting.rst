@@ -1,0 +1,51 @@
+Preparatory meeting for the Sagemath european grant application
+===============================================================
+
+Date: September 08 and 09 of 2014
+
+Time: roughly 10am-6pm each day
+
+Location
+========
+
+Université Paris Sud, Orsay
+
+Either at the `Laboratoire de Recherche en Informatique
+<http://www.lri.fr>`_ or the `Laboratoire de Mathématiques d'Orsay
+<http://www.math.u-psud.fr>`_ (will be settled soon).
+
+Participants
+============
+
+- Miguel Angel Marco-Buzunariz (Profesor ayudante doctor), Universidad de Zaragoza
+
+- Samuel Lelièvre (maître de conférences), Labo math Orsay, U Paris Sud
+
+- Éric Gourgoulhon (DR CNRS), Laboratoire Univers et Théories, CNRS / Observatoire de Paris, Meudon
+
+- Dmitrii Pasechnik (senior research fellow), University of Oxford
+
+- Luca de Feo (Maître de Conférences), PRiSM, Université de Versailles
+
+- Nicolas M. Thiéry (Prof), LRI, Université Paris Sud
+
+- Florent Hivert (Prof), LRI, Université Paris Sud
+
+- Thierry Monteil (CNRS), LIRMM, Montpellier
+
+Tentative program
+=================
+
+Monday
+------
+
+9:30: coffee
+
+10: presentation of the call by Eugénia Shadlova (European Affairs Officer in Orsay)
+
+10:30-: brainstorm
+
+Tuesday
+-------
+
+9:30-: brainstorm

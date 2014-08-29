@@ -4,11 +4,11 @@ Grant application files for a potential European H2020 grant around Sage
 At the occasion of a presentation of the European H2020 call for
 grants, I (Nicolas M. Thiéry) started discussing opportunities for the
 Sage ecosystem. From those discussions, it seems a good bet could be
-the call EINFRA-9: e-Infrastructure for Virtual Research Environment.
+the call `EINFRA-9: e-Infrastructure for Virtual Research Environment <http://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/topics/2144-einfra-9-2015.html>`_.
 
 The purpose would be to have a regular source of funding for:
 
-- Research engineers, students, etc working on the Sage ecosystem at
+- Full time developers, students, etc working on the Sage ecosystem at
   large, with a focus on those general purpose technical tasks that
   don't fit well in the "developed by users for users" model and thus
   can't be funded indirectly through usual research grants.
@@ -31,9 +31,10 @@ networks).
 Time line
 ---------
 
+- `8-9 September 2014: Preparatory meeting <2014-09-08-meeting.rst>`
 - January 2015: Proposal submission
 - September 2015: Start
-- Duration: ???
+- Duration: 3-5 years ???
 
 Scope
 -----
