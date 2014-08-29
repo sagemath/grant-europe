@@ -1,9 +1,18 @@
-Preparatory meeting for the Sagemath european grant application
-===============================================================
+Preparatory meeting for the Sagemath European H2020 grant application
+=====================================================================
 
-Date: September 08 and 09 of 2014
+Date
+====
 
-Time: roughly 10am-6pm each day
+September 08 and 09 of 2014
+
+Purpose
+=======
+
+Brainstorm on the precise scope and consortium for our upcoming
+`Sagemath European H2020 grant application
+<https://github.com/sagemath/grant-europe/>`, start writing the
+proposal, and split the work.
 
 Location
 ========
@@ -13,6 +22,8 @@ Université Paris Sud, Orsay
 Either at the `Laboratoire de Recherche en Informatique
 <http://www.lri.fr>`_ or the `Laboratoire de Mathématiques d'Orsay
 <http://www.math.u-psud.fr>`_ (will be settled soon).
+
+Roughly 45 minutes by RER from downtown Paris.
 
 Participants
 ============
