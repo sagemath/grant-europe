@@ -31,7 +31,7 @@ networks).
 Time line
 ---------
 
-- `8-9 September 2014: Preparatory meeting <2014-09-08-meeting.rst>`
+- `8-9 September 2014: Preparatory meeting <2014-09-08-meeting.rst>`_
 - January 2015: Proposal submission
 - September 2015: Start
 - Duration: 3-5 years ???
