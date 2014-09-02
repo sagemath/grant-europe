@@ -17,13 +17,12 @@ proposal, and split the work.
 Location
 ========
 
-Université Paris Sud, Orsay
+Salle du 3ème, Bâtiment 425
+`Laboratoire de Mathématiques d'Orsay <http://www.math.u-psud.fr>`_
+Université Paris Sud, Orsay.
 
-Either at the `Laboratoire de Recherche en Informatique
-<http://www.lri.fr>`_ or the `Laboratoire de Mathématiques d'Orsay
-<http://www.math.u-psud.fr>`_ (will be settled soon).
-
-Roughly 45 minutes by RER from downtown Paris.
+`How to come <http://www.math.u-psud.fr/acces.php>`_ (roughly 45
+minutes by RER from downtown Paris).
 
 Participants
 ============
@@ -43,6 +42,10 @@ Participants
 - Florent Hivert (Prof), LRI, Université Paris Sud
 
 - Thierry Monteil (CNRS), LIRMM, Montpellier
+
+- Stephen Linton (Prof), University of St. Andrews
+
+- Marc Mezzarobba (CR CNRS), LIP6 Université Pierre et Marie Curie
 
 Tentative program
 =================
