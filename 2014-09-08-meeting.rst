@@ -47,6 +47,8 @@ Participants
 
 - Marc Mezzarobba (CR CNRS), LIP6 Université Pierre et Marie Curie
 
+- Jean-Pierre Flori, ANSSI
+
 Tentative program
 =================
 
