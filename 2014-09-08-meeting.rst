@@ -47,6 +47,10 @@ Participants
 
 - Marc Mezzarobba (CR CNRS), LIP6 Université Pierre et Marie Curie
 
+- Jean-Pierre Flori, ANSSI
+
+- Simon King (postdoctoral research fellow), Friedrich-Schiller-Universität Jena
+
 Tentative program
 =================
 
