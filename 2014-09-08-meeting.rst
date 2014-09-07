@@ -6,8 +6,8 @@ Dates
 
 September 08 and 09 of 2014
 
-Purpose
-=======
+Purpose of the meeting
+======================
 
 Brainstorm on the precise scope and consortium for our upcoming
 `Sagemath European H2020 grant application
@@ -57,13 +57,176 @@ Tentative program
 Monday
 ------
 
-9:30: coffee
+- 9:30 coffee
+- 10:00 Welcome and word of introduction (Nicolas)
+- 10:15 presentation of the call by Eugénia Shadlova (European Affairs Officer in Orsay)
+- 11:00 Going round the table
+- 12:00 Brainstorm on the topics mentioned below
+- 13:00 Lunch
+- 14:00 Brainstorm (con't)
+- 15:00 split up in smaller groups to work on specific tasks
 
-10: presentation of the call by Eugénia Shadlova (European Affairs Officer in Orsay)
-
-10:30-: brainstorm
+- Evening: to be confirmed: dinner at the Gramophone
 
 Tuesday
 -------
 
-9:30-: brainstorm
+- 9:30 presentation and discussion of the production of the small groups
+- 10:30 Define the tasks for writing the proposal, and split the work
+- 11:30 Split in groups and work on the proposal
+- 13:00 Lunch
+- 14:00 More work
+
+On the agenda
+=============
+
+Grant title
+-----------
+
+First draft:
+
+SageMath in Europe: Mutualized development
+of computer exploration environment
+for research in mathematics
+
+Task: improve it (it's too narrow)
+
+Mission statement for the grant
+-------------------------------
+
+Initial draft:
+
+To boost the ``Sage Ecosystem'' to scale to mainstream and assume its
+leadership as virtual environment for computational mathematics by:
+
+- Structuring the community in Europe
+
+- Supporting actions and components developed in Europe
+
+
+Task: improve this
+
+Questions:
+
+- What is the ``Sage Ecosystem''? Is this inclusive enough?
+ ``Sage`` itself is just one of the components!
+
+  Task: draw a picture
+
+- How to include all aspects: teaching / research / ...?
+
+- Busting the ``Sage is American myth``
+
+  Task: Optimize the mission statement and write a few paragraphs for
+  the proposal to bust this myth. Some material:
+
+  - The developers map, location of Sage days, ...
+
+  - Sage is a technocracy; like the development, the leadership is
+    completely distributed. The more Europe gets involved, the more it
+    influences the governance.
+
+  - From the beginning, Sage has included many European projects (GAP, Singular, ...)
+
+  - Sage has been indirectly funded by European/French/... grants
+
+  - Sage has been benefiting European researchers and teachers for a
+    long time; maybe it's time that not only the NSF funds it
+
+Purpose of the grant
+--------------------
+
+Foster collaboration within and between components
+
+Get a regular source of funding for:
+
+- Full time developers, students, etc working on the Sage ecosystem at
+  large, with a focus on those general purpose technical tasks that
+  don't fit well in the "developed by users for users" model and thus
+  can't be funded indirectly through usual research grants.
+
+- Workshops (e.g. Sage Days, ...) and smaller developers meetings,
+  training sessions, short to long term visits, ...
+
+- Hardware,
+
+- Possibly: subcontracting to other projects,
+
+- Possibly: buying teaching reliefs, ...
+
+- Possibly: postdocs with a strong computational aspect.
+
+- Possibly: senior positions?
+
+Consortium
+----------
+
+Main difficulties
+^^^^^^^^^^^^^^^^^
+
+- The community is very dispersed
+- Granularity: what's the right size for a node?
+- What are the administrative constraints on a node?
+- How much is it possible to attach isolated participants to a node?
+
+Main nodes
+^^^^^^^^^^
+
+- Orsay
+- Bordeaux
+- St Andrews?
+- Kaiserslautern?
+- Warwick
+- University of Silesia
+- ...
+
+Overview of the activities
+--------------------------
+
+(starting point suggested by Steve):
+
+UI developments
+^^^^^^^^^^^^^^^
+
+A modern, robust notebook interface for computation supporting
+real-time sharing, integration with collaborative problem-solving,
+paper writing and publication, links to databases etc.
+
+System developments
+^^^^^^^^^^^^^^^^^^^
+
+A more uniform framework for linking computational tools across the
+internet
+
+Cloud integration
+^^^^^^^^^^^^^^^^^
+
+Private and commercial clouds *
+
+Database tools
+^^^^^^^^^^^^^^
+
+Including mechanisms for making data citable, finding data, tracking
+provenance and so on
+
+Integration with publication in open-access journals
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Collaborative tools
+^^^^^^^^^^^^^^^^^^^
+
+- For research projects
+- For software development
+- For teaching
+
+Teaching material
+^^^^^^^^^^^^^^^^^
+
+Maybe integration of a proof-checker/theorem prover
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Maybe Parallelism?
+^^^^^^^^^^^^^^^^^^
+
+Project management and coordination
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
