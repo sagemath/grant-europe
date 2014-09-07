@@ -47,9 +47,17 @@ Participants
 
 - Marc Mezzarobba (CR CNRS), LIP6 Université Pierre et Marie Curie
 
-- Jean-Pierre Flori, ANSSI
+- Jean-Pierre Flori, `ANSSI <http://www.ssi.gouv.fr/>`_
 
 - Simon King (postdoctoral research fellow), Friedrich-Schiller-Universität Jena
+
+- Viviane Pons (Maître de Conférences), LRI, Université Paris Sud
+
+- Mohamed Barakat, Universität Kaiserslautern
+
+- Eugénia Shadlova, European Affairs Officer, Université Paris Sud
+
+- Marcin Kostur (Prof), University of Silesia
 
 Tentative program
 =================
