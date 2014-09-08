@@ -49,8 +49,8 @@ Funding students internship, teaching reliefs, part-time funding for researchers
 
 Ease of access to computational resources
 
-Work package: usability
-====================
+Usability
+=======
 
 .. TODO: getting in touch with experts in ``Usability''.
 
@@ -72,7 +72,7 @@ GAP:
 - Managing the package library (dependencies, consistency, review,
   licensing, testing, ...)
 
-Work package: Fostering collaborations/integration between components in an open source ecosystem
+Goal: Fostering collaborations/integration between components in an open source ecosystem
 =============================================================================
 
 - How to make systems "cooperate" rather than "predate each other".

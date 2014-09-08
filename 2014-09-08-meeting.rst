@@ -91,11 +91,18 @@ On the agenda
 Grant title
 -----------
 
-First draft:
+Some drafts:
 
 SageMath in Europe: Mutualized development
-of computer exploration environment
-for research in mathematics
+of mathematical computer exploration environment
+for research
+
+CREMA: Collaborative Research Environments in Mathematics and Applications
+
+Ecosystem
+Development
+Sharing
+Science
 
 Task: improve it (it's too narrow)
 
