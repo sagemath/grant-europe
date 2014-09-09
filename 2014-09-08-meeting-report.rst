@@ -24,9 +24,9 @@ match with the H2020 VRE grant call, because it was too focused on the
 concrete implementation of a Virtual Research Environment, when the
 call was about doing research about such environments. On the other
 hand, Steve's vision of an application was much more fitting into the
-call, being broader and more abstract; however the applicability of
-the plan and the adequacy of the team was more questionable. We worked
-out a `merge <WorkPackages.rst>`_ of the two visions.
+call, being broader and more abstract; but also more fuzzy, and with a
+more questionable adequacy with the team and its needs. We worked out
+a `merge <WorkPackages.rst>`_ of the two visions.
 
 Two important points of departure are:
 
