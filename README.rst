@@ -13,9 +13,10 @@ The purpose would be to have a regular source of funding for:
   don't fit well in the "developed by users for users" model and thus
   can't be funded indirectly through usual research grants.
 
-- Sage Days and smaller developers meetings, training sessions, visits, ...
+- Workshops (e.g. Sage Days, Pari Days) for development and training,
+  smaller developers meetings, training sessions, visits, ...
 
-- Hardware,
+- Hardware and computational ressources
 
 - Possibly: subcontracting to other projects,
 
@@ -23,16 +24,20 @@ The purpose would be to have a regular source of funding for:
 
 - Possibly: postdocs with a strong computational aspect.
 
-Other grant opportunities can and should be explored (e.g. COST
-networks).
+- Fostering collaboration
 
-`Sketch of project description <project-description.pdf>`_
+Simultaneously, we will apply for a COST network focused on the second
+point above.
+
+`Early sketch of project description <project-description.pdf>`_
 
 Time line
 ---------
 
 - `8-9 September 2014: Preparatory meeting <2014-09-08-meeting.rst>`_
-- January 2015: Proposal submission
+- `Meeting report <2014-09-08-meeting-report.rst>`_
+- January 2015: H2020 Proposal submission
+- January 2015: Cost Proposal submission
 - September 2015: Start
 - Duration: 3-5 years ???
 
@@ -61,8 +66,6 @@ and actions <actions.tex>`_ file.
 Join!
 -----
 
-`Consortium (in building) <consortium.tex>`_
-
 If you are tentatively interested in joining as a participant, PI, or
 even better lead PI, please join the `mailing list
 <https://listes.services.cnrs.fr/wws/info/sagemath-grant-europe>`_,
@@ -73,10 +76,10 @@ and send an e-mail there with:
 - trac & github account if you have them
 - Whatever ideas you may have for the project
 
-I will add you to the collaborators on this githup project so that you
-can start editing the information. In particular, check and edit the
-information in the `consortium <consortium.tex>`_ and `target feature
-<actions.tex>`_ files.
+We will add you to the collaborators on this githup project so that
+you can start editing the information. In particular, check and edit
+the information in the `consortium <consortium.tex>`_ and `target
+feature <actions.tex>`_ files.
 
 And again: if anyone feels like taking on / sharing the lead,
 please!!!
@@ -84,10 +87,10 @@ please!!!
 Files
 -----
 
-- `Information about the call and ToDo list <TODO.org>`_
+- `Information about the H2020 call and ToDo list <TODO.org>`_
   This is best viewed/edited using org-mode
 
-- `Sketch of project description <project-description.pdf>`_
+- `Early sketch of project description <project-description.pdf>`_
   (`TeX source <project-description.tex>`_)
 
    Note: this sketch grew up from previous attempts at the scale of
