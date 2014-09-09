@@ -83,6 +83,11 @@ GAP:
 - Managing the package library (dependencies, consistency, review,
   licensing, testing, ...)
 
+Jean-Pierre: with a few months of work, one could get a fully
+functional one-click install Sage+Cygwin 32bits. More work for Cygwin
+64 bits, but the 32bits version would work on Windows 64 bits.
+
+
 Goal: Fostering collaborations/integration between components in an open source ecosystem
 =============================================================================
 
