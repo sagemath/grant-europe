@@ -1,8 +1,8 @@
 The meeting started by making a list of needs for every participant, and
 it was felt strongly that all of these might not fit well into the H2020 call
 in question, and it might be better to split the effort, namely, 
-to simultaneously apply for the H2020 VRE grant, and for the COST network
-grant <http://www.cost.eu/domains_actions/ict>_.
+to simultaneously apply for the H2020 VRE grant, and for the `COST network
+grant <http://www.cost.eu/domains_actions/ict>`_.
 
 Proposed COST network
 ---------------------
