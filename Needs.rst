@@ -49,6 +49,9 @@ Funding students internship, teaching reliefs, part-time funding for researchers
 
 Ease of access to computational resources
 
+Make it very easy to write and distribute small external libraries and
+plug them in Sage
+
 Usability
 =======
 
@@ -58,10 +61,18 @@ Usability
 - Documentation
 
 Issues in Sage:
-- Some serious cleanup is needed / cost of maintaining backward compatibility
+- Some serious cleanup is needed that will cause backward incompatibility
+- Some serious cleanup everywhere to make the code maintainable
 - Semantic of symbolic calculations
 - Lack of modularity
 - Fine control on which component is used to do a given calculation
+- Sage as a library, both for other Python and non Python projects
+- Standard packaging system for Sage as a distribution
+  that can be replaced by that provided by the operating system
+- Python 3
+
+Adding semantic to handles to objects stored in other systems (adapter
+infrastructure to propagate category/ontologies information)
 
 Analysis with large data in computational physics
 
