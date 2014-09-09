@@ -2,8 +2,9 @@ European grant applications for the Sage ecosystem
 ==================================================
 
 The purpose of this project is to explore and pursue grant
-applications for the Sage ecosystem and related mathematical software,
-in order to get regular source of funding in Europe for:
+applications for the Sage ecosystem and related open source
+mathematical software, in order to get regular source of funding in
+Europe for:
 
 - Full time developers, students, etc working on those general purpose
   technical tasks that don't fit well in the "developed by users for
