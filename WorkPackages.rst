@@ -40,7 +40,8 @@ GAP, SAGE to be flexibly combined and run smoothly across a range of
 environments (cloud, local, server, ...).
 
 Pick up standard components/service for storage and sharing,
-authentication etc. Recomputation connection belongs here?
+computational resources, authentication etc. Recomputation connection
+belongs here?
 
 Need to dig into what Jupyter have done
 
@@ -58,6 +59,8 @@ if it belongs here or not.
 
 - Security concerns
 
+- Parallelism
+
 Standardisation
 ---------------
 
@@ -71,10 +74,15 @@ Either as a package by itself, or subpackage of the previous one.
 User Interfaces
 ---------------
 
-UI design, flexible portable interfaces, iPython ++ (liaison w iPython
-devels) multilingual UI? Usability
+A modern, robust and flexible interface for computation, supporting
+real-time sharing, integration with collaborative problem-solving,
+multilingual documents, paper writing and publication, links to
+databases etc.
 
 .. TODO:: include here everything about this topic in Needs.rst
+
+Deliverable and demonstrators: IPython integration with Sage,
+improvements to IPython, ...
 
 Some demonstrators around here
 
@@ -88,7 +96,8 @@ Includes one or two demonstrator deliverables (or make them related
 WPs) If we have a publisher, maybe split that part out to give them a
 WP to lead Informed by the social stuff.
 
-Interactions with Calculemus / Theorema / Coq / Gonthier / ...
+Interactions with proof systems and proof assistants (reach toward
+Calculemus / Theorema / Coq / Gonthier's team / ...).
 
 Development Models for an Academic Free Software Ecosystem
 ----------------------------------------------------------
@@ -102,7 +111,7 @@ Next Generation Mathematical Databases
 
 Design interfaces that can be used for a wide range of mathematical
 data, facilities for accepting contributions while tracking provenance
-and credit standard metadata allowing database discovery versioning
+and credit, standard metadata allowing database discovery versioning
 allowing stable references, citability, recomputation without copying
 entire database into VM
 
@@ -126,8 +135,3 @@ Management, dissemination etc.
 Points that will need to be argued
 ==================================
 
-- Why Sage as technical platform for this project?
-
-  Among the open-source platforms Sage is natural ...
-
--

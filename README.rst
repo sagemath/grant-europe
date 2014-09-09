@@ -24,7 +24,7 @@ The purpose would be to have a regular source of funding for:
 
 - Possibly: postdocs with a strong computational aspect.
 
-- Fostering collaboration
+- Fostering collaboration within and between software components
 
 Simultaneously, we will apply for a COST network focused on the second
 point above.

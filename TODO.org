@@ -112,7 +112,6 @@ Notations: [X]: easy to argue; [?]: we have some lead, but that will take some a
   - http://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/topics/2144-einfra-9-2015.html
   - http://ec.europa.eu/digital-agenda/en/news/information-days-horizon-2020-research-infrastructures-work-programme-2014-2015-focus-e
   - file:Documentation/SubmissionAndEvaluation.ppt
-* TODO Choose an acronym
 * DONE Support from CNRS's INS2I for preparing an application
   - State "DONE"       from "DONE"       [2014-04-24 jeu. 15:43]
   http://www.cnrs.fr/ins2i/spip.php?article669
@@ -260,3 +259,4 @@ Notations: [X]: easy to argue; [?]: we have some lead, but that will take some a
    contribute)
    * don't name drop organisations and individuals that are not an
    integral part of your strategy or who won't really benefit (please)
+* TODO Get in touch with Jeroen

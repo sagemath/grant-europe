@@ -68,99 +68,14 @@ Monday
 - 9:30 coffee
 - 10:00 Welcome and word of introduction (Nicolas)
 - 10:15 presentation of the call by Eugénia Shadlova (European Affairs Officer in Orsay)
-- 11:00 Going round the table
-- 12:00 Brainstorm on the topics mentioned below
-- 13:00 Lunch
-- 14:00 Brainstorm (con't)
-- 15:00 split up in smaller groups to work on specific tasks
+- 11:00 Going round the table, and gathering the needs of the community
+- 14:00 Lunch
+- 15:00- Brainstorm on the proper proposal configuration, work packages
 
-- Evening: to be confirmed: dinner at the Gramophone
+- Evening: dinner at the Gramophone
 
 Tuesday
 -------
 
-- 9:30 presentation and discussion of the production of the small groups
-- 10:30 Define the tasks for writing the proposal, and split the work
-- 11:30 Split in groups and work on the proposal
-- 13:00 Lunch
-- 14:00 More work
-
-OLD STUFF
-=========
-
-
-.. TODO:: move this to README.rst
-
-Foster collaboration within and between components
-
-Get a regular source of funding for:
-
-- Full time developers, students, etc working on the Sage ecosystem at
-  large, with a focus on those general purpose technical tasks that
-  don't fit well in the "developed by users for users" model and thus
-  can't be funded indirectly through usual research grants.
-
-- Workshops (e.g. Sage Days, ...) and smaller developers meetings,
-  training sessions, short to long term visits, ...
-
-- Hardware,
-
-- Possibly: subcontracting to other projects,
-
-- Possibly: buying teaching reliefs, ...
-
-- Possibly: postdocs with a strong computational aspect.
-
-- Possibly: senior positions?
-
-
-Overview of the activities
---------------------------
-
-.. TODO:: Make sure everything appears in the work packages
-
-UI developments
-^^^^^^^^^^^^^^^
-
-A modern, robust notebook interface for computation supporting
-real-time sharing, integration with collaborative problem-solving,
-paper writing and publication, links to databases etc.
-
-System developments
-^^^^^^^^^^^^^^^^^^^
-
-A more uniform framework for linking computational tools across the
-internet
-
-Cloud integration
-^^^^^^^^^^^^^^^^^
-
-Private and commercial clouds *
-
-Database tools
-^^^^^^^^^^^^^^
-
-Including mechanisms for making data citable, finding data, tracking
-provenance and so on
-
-Integration with publication in open-access journals
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Collaborative tools
-^^^^^^^^^^^^^^^^^^^
-
-- For research projects
-- For software development
-- For teaching
-
-Teaching material
-^^^^^^^^^^^^^^^^^
-
-Maybe integration of a proof-checker/theorem prover
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Maybe Parallelism?
-^^^^^^^^^^^^^^^^^^
-
-Project management and coordination
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- 9:30- More brainstorm, refinement of the title, mission statement,
+  consortium, work packages, ...
