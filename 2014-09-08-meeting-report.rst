@@ -23,12 +23,12 @@ more fitting into the call, and we worked out a `merge <WorkPackages.rst>`_ of t
 
 Two important points of departure are
 
-* introduction of a *social* component into the project, investigating
-how the interaction within open-source collaborative development of
-mathematical software happens. The corresponding work packages are to be
-coordinated by `Ursula Martin <http://www.cs.ox.ac.uk/people/ursula.martin/>`_ (Oxford).
-* "abstracting" the work packages, making them less Sage technicalities-
-centric, and more fitting into the grant call.
+- introduction of a *social* component into the project, investigating
+  how the interaction within open-source collaborative development of
+  mathematical software happens. The corresponding work packages are to be
+  coordinated by `Ursula Martin <http://www.cs.ox.ac.uk/people/ursula.martin/>`_ (Oxford).
+- "abstracting" the work packages, making them less Sage technicalities-
+  centric, and more fitting into the grant call.
 
 The consortium structure was discussed and roughly decided upon (see below). It will be a
 relatively small group of sites, with more than one active person per
