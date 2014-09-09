@@ -44,15 +44,19 @@ authentication etc. Recomputation connection belongs here?
 
 Need to dig into what Jupyter have done
 
-Collaboration with unreliable networking connections (peer-to-peer,
-opportunistic syncing, 3rd world). This is technically interesting,
-and gets in support for non-networked working. Not sure if it belongs
-here or not.
+Collaboration with unreliable (or restricted!) networking connections
+(peer-to-peer, opportunistic syncing, 3rd world). This is technically
+interesting, and gets in support for non-networked working. Not sure
+if it belongs here or not.
 
 - Self adaptation to the environment, better schemes for automatically
   selecting appropriate algorithms / components for a given task.
 
 - Modularisation of Sage.
+
+- Portability
+
+- Security concerns
 
 Standardisation
 ---------------

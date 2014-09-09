@@ -85,71 +85,11 @@ Tuesday
 - 13:00 Lunch
 - 14:00 More work
 
-On the agenda
-=============
-
-Grant title
------------
-
-Some drafts:
-
-SageMath in Europe: Mutualized development
-of mathematical computer exploration environment
-for research
-
-CREMA: Collaborative Research Environments in Mathematics and Applications
-
-Ecosystem
-Development
-Sharing
-Science
-
-Task: improve it (it's too narrow)
-
-Mission statement for the grant
--------------------------------
-
-Initial draft:
-
-To boost the ``Sage Ecosystem'' to scale to mainstream and assume its
-leadership as virtual environment for computational mathematics by:
-
-- Structuring the community in Europe
-
-- Supporting actions and components developed in Europe
+OLD STUFF
+=========
 
 
-Task: improve this
-
-Questions:
-
-- What is the ``Sage Ecosystem''? Is this inclusive enough?
- ``Sage`` itself is just one of the components!
-
-  Task: draw a picture
-
-- How to include all aspects: teaching / research / ...?
-
-- Busting the ``Sage is American myth``
-
-  Task: Optimize the mission statement and write a few paragraphs for
-  the proposal to bust this myth. Some material:
-
-  - The developers map, location of Sage days, ...
-
-  - Sage is a technocracy; like the development, the leadership is
-    completely distributed. The more Europe gets involved, the more it
-    influences the governance.
-
-  - From the beginning, Sage has included many European projects (GAP, Singular, ...)
-
-  - Sage has been indirectly funded by European/French/... grants
-
-  - Sage has been benefiting European researchers and teachers for a
-    long time; maybe it's time that not only the NSF funds it
-
-Purpose of the grant
---------------------
+.. TODO:: move this to README.rst
 
 Foster collaboration within and between components
 
@@ -173,32 +113,11 @@ Get a regular source of funding for:
 
 - Possibly: senior positions?
 
-Consortium
-----------
-
-Main difficulties
-^^^^^^^^^^^^^^^^^
-
-- The community is very dispersed
-- Granularity: what's the right size for a node?
-- What are the administrative constraints on a node?
-- How much is it possible to attach isolated participants to a node?
-
-Main nodes
-^^^^^^^^^^
-
-- Orsay
-- Bordeaux
-- St Andrews?
-- Kaiserslautern?
-- Warwick
-- University of Silesia
-- ...
 
 Overview of the activities
 --------------------------
 
-(starting point suggested by Steve):
+.. TODO:: Make sure everything appears in the work packages
 
 UI developments
 ^^^^^^^^^^^^^^^

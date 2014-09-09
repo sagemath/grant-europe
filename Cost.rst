@@ -1,0 +1,14 @@
+GAP
+Pari
+Sage
+CoCOA
+Linbox
+FGb/RS
+NTL
+FLINT
+MPFR/...
+CGal
+RISC
+Mathemagix
+Polymake
+
