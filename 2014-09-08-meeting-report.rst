@@ -32,8 +32,7 @@ Singular, LMFDB, ...).
 The big picture
 ---------------
 
-.. TODO:: Add link to the project picture
-
+`A draft of big picture for the project <H2020/TheBigPicture.jpg>`_
 
 Consortium
 ----------
@@ -43,7 +42,7 @@ Consortium
   GAP / ...
 
 - Paris Sud / Paris Saclay
-  Nicolas with help from Viviane
+  Nicolas Thiéry/Viviane Pons
 
 - Logilab (with support from the Systematic cluster)
   (contact: Nicolas)
