@@ -124,5 +124,3 @@ Consortium
 
 - IPython
   (contact: Nicolas)
-
-.. TODO:: Link to WorkPackages.rst

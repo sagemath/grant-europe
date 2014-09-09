@@ -65,7 +65,7 @@ you can start editing the information. In particular, check and edit
 the information in the `COST consortium <consortium.tex>`_ and `target
 feature <actions.tex>`_ files.
 
-You are welcome to explore other opportunities for applications,
+You are welcome to explore other opportunities for grant applications,
 centered for example on teaching, ...
 
 Files
@@ -82,6 +82,9 @@ Files
    course be cleared.
 
 - `Tentative consortium for the COST network <consortium.tex>`_
+
+- `Tentative list of work packages <WorkPackages.rst> for the H2020 project`_
+
 
 - `Potential target features and actions <actions.tex>`_.
 
