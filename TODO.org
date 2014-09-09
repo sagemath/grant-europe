@@ -259,4 +259,4 @@ Notations: [X]: easy to argue; [?]: we have some lead, but that will take some a
    contribute)
    * don't name drop organisations and individuals that are not an
    integral part of your strategy or who won't really benefit (please)
-* TODO Get in touch with Jeroen
+* TODO Get in touch with Jeroen, Logilab, ...

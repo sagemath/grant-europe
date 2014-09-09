@@ -1,18 +1,10 @@
 Work Package Clusters
 ===================
 
-Revised Tuesday morning
-
-Some of these packages may well get split further or merged. The distinction between
-Package Groups is just for us, the Commission doesn't see it.
-
-Software Architecture and Interfaces
-====================================
-
-Overview – develop and validate a software architecture building on  relevant
-prior art, techniques from other communities, etc. into which a  wide range of
-components can be plugged to develop flexible bespoke VREs for particular
-communities and projects.
+Overview – develop and validate a software architecture building on
+relevant prior art, techniques from other communities, etc. into which
+a wide range of components can be plugged to develop flexible bespoke
+VREs for particular communities and projects.
 
 
 Emerging Technology
