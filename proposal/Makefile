@@ -62,7 +62,7 @@ show:
 # with a PDF viewer, which reloads automatically the PDF on changes
 # e.g. "evince" in Linux
 cont:
-	latexmk $(LATEXBUILDARGS) -pvc $(TARGETPDF)
+	latexmk $(LATEXBUILDARGS) -pvc $(TARGET)
 
 # target "dist" just copies the PDF and includes the GIT revision
 dist: $(TARGETPDF)
