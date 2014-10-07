@@ -30,8 +30,8 @@ funding in Europe for:
 
 At this stage, we are preparing two grant applications:
 
-- A `COST <Cost.rst>`_ network focused on the second point above,
-  targeting a wide consortium.
+- A `COST network <http://www.cost.eu>`_ focused on the second point
+  above, targeting a wide `consortium <Cost/consortium.tex>`_.
 
 - A European H2020 application for the call `EINFRA-9:
   e-Infrastructure for Virtual Research Environment
@@ -63,8 +63,8 @@ and send an e-mail there with:
 
 We will add you to the collaborators on this githup project so that
 you can start editing the information. In particular, check and edit
-the information in the `COST consortium <consortium.tex>`_ and `target
-feature <actions.tex>`_ files.
+the information in the `COST consortium <Cost/consortium.tex>`_ and `target
+feature <H2020/actions.tex>`_ files.
 
 You are welcome to explore other opportunities for grant applications,
 centered for example on teaching, ...
@@ -77,11 +77,11 @@ Files
 - `Information about the H2020 call and ToDo list <TODO.org>`_
   This is best viewed/edited using org-mode
 
-- `Tentative consortium for the COST network <consortium.tex>`_
+- `Tentative consortium for the COST network <Cost/consortium.tex>`_
 
-- `Tentative list of work packages <WorkPackages.rst> for the H2020 project`_
+- `Tentative list of work packages <H2020/WorkPackages.rst> for the H2020 project`_
 
-- `Potential target features and actions <actions.tex>`_.
+- `Potential target features and actions <H2020/actions.tex>`_.
 
 - `Original thread on sage-devel <https://groups.google.com/d/msg/sage-devel/zW8vHUI1PEw/SOl3lQrS08YJ>`_
 

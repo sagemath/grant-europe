@@ -1,4 +1,4 @@
-The meeting started by collating a list of the `needs <Needs.rst>`_ of
+The meeting started by collating a list of the `needs <H2020/Needs.rst>`_ of
 the participants and the communities they represented (Sage, GAP,
 Singular, Pari), and where funding could help tackle those needs. It
 was felt strongly that all of these might not fit well into the H2020
