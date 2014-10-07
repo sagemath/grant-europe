@@ -85,8 +85,6 @@ Deliverable and demonstrators:
 - IPython integration with GAP, Sage, Singular, ...
 - Improvements to IPython, ...
 
-Some demonstrators around here
-
 Supporting the Mathematical Process
 -----------------------------------
 

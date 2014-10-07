@@ -26,7 +26,7 @@ call was about doing research about such environments. On the other
 hand, Steve's vision of an application was much more fitting into the
 call, being broader and more abstract; but also more fuzzy, and with a
 more questionable adequacy with the team and its needs. We worked out
-a `merge <WorkPackages.rst>`_ of the two visions.
+a `merge <H2020/WorkPackages.rst>`_ of the two visions.
 
 Two important points of departure are:
 
@@ -47,7 +47,7 @@ Steve being administratively the official overall lead, while Nicolas
 would focus more on leading the concrete work packages of the grant.
 
 
-Further, we worked on `punchlines <PunchLines.rst>`_ for the proposal,
+Further, we worked on `punchlines <H2020/PunchLines.rst>`_ for the proposal,
 a tentative title was chosen, and a draft mission statement written.
 See the `draft of proposal <H2020/proposal.pdf>`_.
 
