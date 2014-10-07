@@ -260,3 +260,5 @@ Notations: [X]: easy to argue; [?]: we have some lead, but that will take some a
    * don't name drop organisations and individuals that are not an
    integral part of your strategy or who won't really benefit (please)
 * TODO Get in touch with Jeroen, Logilab, ...
+* Meeting with Logilab
+  <2014-10-17 ven. 14:00-17:00>

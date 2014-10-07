@@ -1,10 +1,10 @@
-European grant applications for the Sage ecosystem
-==================================================
+European grant application ``Collaborative ecosystems for mathematical research and software development''
+==========================================================================================================
 
 The purpose of this project is to explore and pursue grant
-applications for the Sage ecosystem and related open source
-mathematical software, in order to get regular source of funding in
-Europe for:
+applications for the ecosystem of open source mathematical software
+(GAP, Pari/GP, Sage, Singular, ...), in order to get regular source of
+funding in Europe for:
 
 - Full time developers, students, etc working on those general purpose
   technical tasks that don't fit well in the "developed by users for
@@ -72,20 +72,14 @@ centered for example on teaching, ...
 Files
 -----
 
+- `Current draft of proposal <H2020/proposal.pdf>`_
+
 - `Information about the H2020 call and ToDo list <TODO.org>`_
   This is best viewed/edited using org-mode
-
-- `Early sketch of project description <project-description.pdf>`_
-  (`TeX source <project-description.tex>`_)
-
-   Note: this sketch grew up from previous attempts at the scale of
-   Sage-Combinat in France; there remains traces of it which should of
-   course be cleared.
 
 - `Tentative consortium for the COST network <consortium.tex>`_
 
 - `Tentative list of work packages <WorkPackages.rst> for the H2020 project`_
-
 
 - `Potential target features and actions <actions.tex>`_.
 

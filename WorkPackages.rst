@@ -1,5 +1,5 @@
 Work Package Clusters
-===================
+=====================
 
 Overview – develop and validate a software architecture building on
 relevant prior art, techniques from other communities, etc. into which
@@ -20,7 +20,7 @@ Community Building & Engagement
 - Reports on community needs
 - Open workshops (Sage Days, Pari Days, summer schools, etc.)
 - Both for development and training
-- General travel  budget
+- General travel budget
 - Large demonstrators
 
 Component Architecture
@@ -28,7 +28,7 @@ Component Architecture
 
 Develop and demonstrate a set of APIs enabling components such as
 database interfaces, computational modules, separate systems such as
-GAP, SAGE to be flexibly combined and run smoothly across a range of
+GAP, Sage to be flexibly combined and run smoothly across a range of
 environments (cloud, local, server, ...).
 
 Pick up standard components/service for storage and sharing,
@@ -45,9 +45,16 @@ if it belongs here or not.
 - Self adaptation to the environment, better schemes for automatically
   selecting appropriate algorithms / components for a given task.
 
-- Modularisation of Sage.
+- Modularisation:
+  - common architecture for module maintenance and distribution
+    (related to point 1 above)
+  - sharing experience and best practices
+  - modularization of Sage
+  - refactorization of GAP's package mechanism; namespaces?
 
 - Portability
+  Port to windows (GAP, Sage, Singular)
+  Multiplatform test infrastructure
 
 - Security concerns
 
@@ -73,8 +80,10 @@ databases etc.
 
 .. TODO:: include here everything about this topic in Needs.rst
 
-Deliverable and demonstrators: IPython integration with Sage,
-improvements to IPython, ...
+Deliverable and demonstrators:
+
+- IPython integration with GAP, Sage, Singular, ...
+- Improvements to IPython, ...
 
 Some demonstrators around here
 
@@ -105,9 +114,12 @@ Design interfaces that can be used for a wide range of mathematical
 data, facilities for accepting contributions while tracking provenance
 and credit, standard metadata allowing database discovery versioning
 allowing stable references, citability, recomputation without copying
-entire database into VM
+entire database into VM.
 
-Warwick, Paul Oliver Dehaye, Logilab? (SME in Paris)
+- Warwick, Paul Oliver Dehaye, Logilab? (SME in Paris)
+- Databases of polytopes in Polymake
+- Database of finite groups (Max)
+- Database of lattices
 
 Social Aspects
 --------------

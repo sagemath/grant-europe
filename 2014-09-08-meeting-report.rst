@@ -41,43 +41,16 @@ The consortium structure was discussed and roughly decided upon (see
 below). It will be a relatively small group of sites, with more than
 one active person per site, and substantial project-related activities
 going. Part of the rationale for this is the significant
-administrative overhead imposed on each site. Given the shift in
+administrative overhead imposed on each site. Given the widening in
 scope, Nicolas and Steve agreed to share the burden of the lead, with
 Steve being administratively the official overall lead, while Nicolas
 would focus more on leading the concrete work packages of the grant.
 
 
-Further, we worked on `punchlines <PunchLines.rst>`_ for the proposal, 
-a tentative title was chosen, and a draft mission statement written (see below).
+Further, we worked on `punchlines <PunchLines.rst>`_ for the proposal,
+a tentative title was chosen, and a draft mission statement written.
+See the `draft of proposal <H2020/proposal.pdf>`_.
 
-
-Grant title
------------
-
-Collaborative ecosystems for mathematical research and software development
-
-.. TODO:: improve / find acronym
-
-Mission statement for the grant
--------------------------------
-
-Our mission is to promote a new generation of community-developed open
-source software, databases, and services adapted to the needs of
-collaborative research in pure mathematics and applications
-
-Our research will cover a wide variety of aspects, ranging from
-software development models, user interfaces (virtual environments?),
-deployment frameworks and novel collaborative tools, component
-architecture, design, and standardization of software (system?) and
-databases, to links to publication, data archival and reproducibility
-of experiments, development models and tools, and social aspects.
-
-It will consolidate Europe's leading position in computational
-mathematics and build on the remarkable success of the dynamic
-Python/Sage ecosystem and its sister European projects (GAP, Pari,
-Singular, LMFDB, ...).
-
-.. TODO:: Proofread
 
 The big picture
 ---------------
