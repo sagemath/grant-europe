@@ -55,7 +55,7 @@ See the `draft of proposal <H2020/proposal.pdf>`_.
 The big picture
 ---------------
 
-`A draft of big picture for Virtual Research Environment proposed by the project <H2020/TheBigPicture.jpg>`_
+`A draft of big picture for Virtual Research Environment proposed by the project <H2020/Pictures/TheBigPicture.jpg>`_
 
 Consortium
 ----------

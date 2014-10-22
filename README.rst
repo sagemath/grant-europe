@@ -79,11 +79,13 @@ Files
 
 - `Tentative consortium for the COST network <Cost/consortium.tex>`_
 
-- `Tentative list of work packages <H2020/WorkPackages.rst> for the H2020 project`_
+- `Tentative list of work packages <H2020/WorkPackages.rst>`_ for the H2020 project
 
 - `Potential target features and actions <H2020/actions.tex>`_.
 
 - `Original thread on sage-devel <https://groups.google.com/d/msg/sage-devel/zW8vHUI1PEw/SOl3lQrS08YJ>`_
+
+- A draft of `big picture <H2020/Pictures/TheBigPicture.jpg>`_
 
 - `A draft of mind map <http://sage.math.washington.edu/home/nthiery/MindMap.html>`_
   (`Sources  <MindMap.mm>`_ to be edited with `freeplane <http://freeplane.sourceforge.net/wiki/index.php/Main_Page>`_)
