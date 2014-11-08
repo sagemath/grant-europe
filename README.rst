@@ -38,12 +38,16 @@ At this stage, we are preparing two grant applications:
   <http://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/topics/2144-einfra-9-2015.html>`_,
   with a more focused consortium, to tackle the other aspects.
 
+  - `Mailing list <https://listes.services.cnrs.fr/wws/info/math-vre-h2020-grant-europe>`_
+  - `README <H2020/README.rst>`_
+
 Time line
 ---------
 
 - `8-9 September 2014: Preparatory meeting <2014-09-08-meeting.rst>`_
 - `Meeting report <2014-09-08-meeting-report.rst>`_
-- January 2015: H2020 Proposal submission
+- December 15th of 2015: H2020 proposal basically finished
+- January 14th of  2015: H2020 proposal submission
 - January 2015: Cost Proposal submission
 - September 2015: Start
 - Duration: 3-5 years
@@ -78,8 +82,6 @@ Files
   This is best viewed/edited using org-mode
 
 - `Tentative consortium for the COST network <Cost/consortium.tex>`_
-
-- `Tentative list of work packages <H2020/WorkPackages.rst>`_ for the H2020 project
 
 - `Potential target features and actions <H2020/actions.tex>`_.
 
