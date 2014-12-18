@@ -43,7 +43,6 @@ e-Infrastructure for Virtual Research Environments -*- mode: org; -*-
   Le sous-traitant doit avoir un intérêt uniquement financier. Au delà
   d'un montant: marché / devis.
 
-
 * Max duration of temporary positions at the university?
 * Steve: take the lead of social/proof/... workpackages?
 * TODO Implication des partenaires
@@ -60,8 +59,6 @@ chacun des partenaires, l'idéal serait qu'ils commencent à les remplir
 à partir de mi-novembre, pour qu'on les récupère au plus tard à la
 mi-décembre.
 
-* HPC workpackage
-** Contact pythran's dev
 * TODO Distribute the tasks for writing the proposal
   Describe clearly what each participant is to do for each proposal.
   In particular, prepare templates for cv's, institution description,
@@ -254,3 +251,138 @@ mi-décembre.
 ** Document structurés sur IPython
 * Journée d'information du MENESR
   <2014-11-12 mer. 14:00-18:00>
+  M.E.N.E.S.R. (Amphithéâtre Poincaré)
+  25 rue de la Montagne Ste-Geneviève
+  75005 Paris
+
+** Recommandations:
+  - Voir le papier Virtual Research Environments: an overview and a
+    research agenda. Data Science Journal 01/2013
+
+  - Analyse de risque (indispensable FP7, moins important maintenant):
+    paragraphe sur ce que nous ne voulons pas devenir, ce que nous
+    mettons en place pour l'éviter.
+
+  - Intégrer le projet dans une démarche globale: qu'est-ce qu'on a,
+    vers où on va, qu'est-ce qu'apporte le financement européens quels
+    sont les check point, les recettes.
+
+  - Décrire quelle sera la gouvernance
+
+  - Fournir un service plutôt qu'un prototype ou proof-of-concept
+
+  - Data Management plan
+
+    This includes and goes beyond the dissemination plan requested by
+    previous calls which was about dissemination of results through,
+    papers, training, ...
+
+    It should include
+    - A sustainable web site
+    - Availability in the long run of all deliverables
+    - Tracability
+    - See RDA for recommendations for Data
+
+  - Highlight a structuration effect of the proposal toward in
+    particular FET's calls.
+
+  - Avoid several proposals in the same researche area
+    No other calls in maths known at this point, beside
+
+** Il y a d'autres appels à projet ultérieurs; orientés enseignement?
+** TODO: Get in touch with Stéphane Cordier
+   (projet VRE with a contribution from the AMIES in Grenoble)
+
+  Université Grenoble Alpes comme partenaire?
+
+**  Questions:
+  - Contacter, ou pas, Antonio Barbas (DG-connect)
+
+  - Quatre ans? Trois ans + 1 renouvelable? Recommandation de demander
+    le temps nécessaire (quatre ans) si l'appel est flou sur le sujet.
+
+  - Forme générale du projet
+
+  - Autres projets VRE en maths pures? en maths appliquées?
+
+  - Importance de HPC / Bigdata; est-ce que l'amélioration des
+    composants eux-même est vendable?
+
+  - Ratio «Recherche sur les VRE» versus «Implantation d'un VRE».
+
+  - Gestion des participants isolés. Exemples:
+    - Jean-Pierre Flori, Luca DeFeo (coencadrement)
+    - Simula (hébergement et encadrement d'un ingénieur)
+    - Paul-Olivier Dehaye (Zürich pour deux ans + 2 renouvelables)
+    - Serge Guédon avec Logilab
+    - Harald Shilly
+
+
+  Mettre en valeur une structuration vers les FET?
+
+  Questions:
+  - Contacter, ou pas, Antonio Barbas (DG-connect)
+
+  - Quatre ans? Trois ans + 1 renouvelable? Recommandation de demander
+    le temps nécessaire (quatre ans) si l'appel est flou sur le sujet.
+
+  - Forme générale du projet
+
+  - Autres projets VRE en maths pures? en maths appliquées?
+    Recommandation: éviter plusieurs propositions dans le même domaine
+
+  - Importance de HPC / Bigdata; est-ce que l'amélioration des
+    composants eux-même est vendable?
+
+    Recommandation (aussi pour VRE?): fournir un service plutôt qu'un
+    prototype ou proof-of-concept
+
+  - Ratio «Recherche sur les VRE» versus «Implantation d'un VRE».
+
+  - Gestion des participants isolés. Exemples:
+    - Jean-Pierre Flori, Luca DeFeo (coencadrement)
+    - Simula (hébergement et encadrement d'un ingénieur)
+    - Paul-Olivier Dehaye (Zürich pour deux ans + 2 renouvelables)
+    - Serge Guédon avec Logilab
+
+  - Importance de "Sage is European"
+
+
+Voir l'exemple d'un VRE: E-Biogenouest
+
+Implantation d'un portal unique pour notre VRE?
+HUBZero?
+
+ISAtools: gestion des métadonnées expérimentales
+
+Pydio: upload de grosses données
+
+Galaxy: platforme web d'analyse de données
+Partage: données, historique, workflow, outils, ...
+
+Métrique?
+
+Authentification via la CNRS
+
+Importance d'avoir un portail unique qui pointe vers les différents
+outils "en moins de trois clics".
+
+Outils pour générer automatiquement une liste de citations à partir de
+la chaîne de traitement.
+
+Point de contact national pour l'appel: pcn-infra@recherche.gouv.fr
+
+* Phone call with Serge Guelton
+** Deliverables
+   - Pythran distributed with Sage
+   - Sage configured to use a Pythran'd numpy
+   - Couplage Cython Pythran
+   - Exploration Mpy4py, Pythran
+   - Système de type dans Pythran (étude de cas)
+* Fernando Perrez
+  More info about IPython European proposals to not step on each
+  other toes
+
+* Visite Vincent Delecroix
+  <2014-12-12 ven. 9:00-13:00>
+  <2014-12-15 lun. >
