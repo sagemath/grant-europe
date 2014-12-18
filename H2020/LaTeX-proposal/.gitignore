@@ -1,3 +1,4 @@
+auto
 *.acn
 *.acr
 *.alg
@@ -6,7 +7,6 @@
 *.blg
 *.dvi
 *.fdb_latexmk
-*.fls
 *.glg
 *.glo
 *.gls
@@ -31,6 +31,9 @@
 *.vrb
 *.xdy
 *.tdo
-H2020/proposal.pdf
-auto
 *.run.xml
+*.pdata
+*-blx.bib
+*.deliverables
+*.delivs
+*.bcf
