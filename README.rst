@@ -3,8 +3,8 @@ European grant application ``Collaborative ecosystems for mathematical research 
 
 The purpose of this project is to explore and pursue grant
 applications for the ecosystem of open source mathematical software
-(GAP, Pari/GP, Sage, Singular, ...), in order to get regular source of
-funding in Europe for:
+(GAP, Pari/GP, Sage, Singular, ...), in order to get funding in Europe
+for:
 
 - Full time developers, students, etc working on those general purpose
   technical tasks that don't fit well in the "developed by users for
@@ -30,13 +30,13 @@ funding in Europe for:
 
 At this stage, we are preparing two grant applications:
 
-- A `COST network <http://www.cost.eu>`_ focused on the second point
-  above, targeting a wide `consortium <Cost/consortium.tex>`_.
-
 - A European H2020 application for the call `EINFRA-9:
   e-Infrastructure for Virtual Research Environment
   <http://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/topics/2144-einfra-9-2015.html>`_,
-  with a more focused consortium, to tackle the other aspects.
+  with a small consortium, with main focus on funding developers.
+
+- A `COST network <http://www.cost.eu>`_ targeting a wider `consortium
+  <Cost/consortium.tex>`_.
 
   - `Mailing list <https://listes.services.cnrs.fr/wws/info/math-vre-h2020-grant-europe>`_
   - `README <H2020/README.rst>`_
@@ -48,15 +48,18 @@ Time line
 - `Meeting report <2014-09-08-meeting-report.rst>`_
 - December 15th of 2015: H2020 proposal basically finished
 - January 14th of  2015: H2020 proposal submission
-- January 2015: Cost Proposal submission
-- September 2015: Start
-- Duration: 3-5 years
+- September 2015: Start of H2020 project
+- Duration: 4 years
+
+- ??? 2015: Cost Proposal submission
+
 
 Join!
 -----
 
-If you are tentatively interested in joining as a participant, PI, or
-even better lead PI of a proposal, please join the `mailing list
+At this point, the consortium is final for the H2020 proposal, but not
+for the Cost network. If you are tentatively interested in
+participating, please join the `mailing list
 <https://listes.services.cnrs.fr/wws/info/sagemath-grant-europe>`_,
 and send an e-mail there with:
 
@@ -67,8 +70,8 @@ and send an e-mail there with:
 
 We will add you to the collaborators on this githup project so that
 you can start editing the information. In particular, check and edit
-the information in the `COST consortium <Cost/consortium.tex>`_ and `target
-feature <H2020/actions.tex>`_ files.
+the information in the `COST consortium <Cost/consortium.tex>`_
+.. and `target feature <H2020/actions.tex>`_ files.
 
 You are welcome to explore other opportunities for grant applications,
 centered for example on teaching, ...
@@ -76,7 +79,7 @@ centered for example on teaching, ...
 Files
 -----
 
-- `Current draft of proposal <H2020/proposal.pdf>`_
+- `Current draft of H2020 proposal <H2020/proposal.pdf>`_
 
 - `Information about the H2020 call and ToDo list <TODO.org>`_
   This is best viewed/edited using org-mode
@@ -87,7 +90,7 @@ Files
 
 - `Original thread on sage-devel <https://groups.google.com/d/msg/sage-devel/zW8vHUI1PEw/SOl3lQrS08YJ>`_
 
-- A draft of `big picture <H2020/Pictures/TheBigPicture.jpg>`_
+- A draft of `big picture <H2020/Pictures/TheBigPicture.svg>`_
 
 - `A draft of mind map <http://sage.math.washington.edu/home/nthiery/MindMap.html>`_
   (`Sources  <MindMap.mm>`_ to be edited with `freeplane <http://freeplane.sourceforge.net/wiki/index.php/Main_Page>`_)
