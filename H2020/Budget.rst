@@ -9,8 +9,8 @@ Common activities include
 
 - conference attendance
 - project meetings
-- coding sprints 
-- visits of partner sites
+- coding sprints
+- visits at partner sites
 
 Suggested costs for these categories:
 
