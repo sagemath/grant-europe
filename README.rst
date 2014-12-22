@@ -2,9 +2,10 @@ European grant application ``Collaborative ecosystems for mathematical research 
 ==========================================================================================================
 
 The purpose of this project is to explore and pursue grant
-applications for the ecosystem of open source mathematical software
-(GAP, Pari/GP, Sage, Singular, ...), in order to get funding in Europe
-for:
+applications for the ecosystem of open source computational and
+database software for pure mathematics and applications (GAP, LMFDB,
+Linbox, Pari/GP, Sage, Singular, ...), in order to get funding in
+Europe for:
 
 - Full time developers, students, etc working on those general purpose
   technical tasks that don't fit well in the "developed by users for
@@ -35,11 +36,12 @@ At this stage, we are preparing two grant applications:
   <http://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/topics/2144-einfra-9-2015.html>`_,
   with a small consortium, with main focus on funding developers.
 
+  - `Draft of proposal <H2020/proposal.pdf>`_
+  - `README <H2020/README.rst>`_
+  - `Mailing list <https://listes.services.cnrs.fr/wws/info/math-vre-h2020-grant-europe>`_
+
 - A `COST network <http://www.cost.eu>`_ targeting a wider `consortium
   <Cost/consortium.tex>`_.
-
-  - `Mailing list <https://listes.services.cnrs.fr/wws/info/math-vre-h2020-grant-europe>`_
-  - `README <H2020/README.rst>`_
 
 Time line
 ---------
@@ -86,7 +88,7 @@ Files
 
 - `Tentative consortium for the COST network <Cost/consortium.tex>`_
 
-- `Potential target features and actions <H2020/actions.tex>`_.
+.. - `Potential target features and actions <H2020/actions.tex>`_.
 
 - `Original thread on sage-devel <https://groups.google.com/d/msg/sage-devel/zW8vHUI1PEw/SOl3lQrS08YJ>`_
 
