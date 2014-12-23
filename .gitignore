@@ -32,3 +32,5 @@
 *.xdy
 *.tdo
 H2020/proposal.pdf
+auto
+*.run.xml
