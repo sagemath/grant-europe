@@ -50,11 +50,8 @@ Time line
 - `Meeting report <2014-09-08-meeting-report.rst>`_
 - December 15th of 2015: H2020 proposal basically finished
 - January 14th of  2015: H2020 proposal submission
-- September 2015: Start of H2020 project
-- Duration: 4 years
-
-- ??? 2015: Cost Proposal submission
-
+- March 24th of 2015: Cost Proposal submission
+- September 2015-: Tentative start of H2020 project, for four years
 
 Join!
 -----
