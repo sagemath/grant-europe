@@ -36,7 +36,7 @@ At this stage, we are preparing two grant applications:
   <http://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/topics/2144-einfra-9-2015.html>`_,
   with a small consortium, with main focus on funding developers.
 
-  - `Draft of proposal <H2020/proposal.pdf>`_
+  - `Draft of proposal <H2020/proposal-www.pdf>`_
   - `README <H2020/README.rst>`_
   - `Mailing list <https://listes.services.cnrs.fr/wws/info/math-vre-h2020-grant-europe>`_
 
