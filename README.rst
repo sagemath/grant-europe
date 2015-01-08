@@ -1,5 +1,5 @@
-European grant application ``Collaborative ecosystems for mathematical research and software development''
-==========================================================================================================
+European grant application around Collaborative ecosystems for mathematical research and software development
+=============================================================================================================
 
 The purpose of this project is to explore and pursue grant
 applications for the ecosystem of open source computational and
@@ -46,9 +46,7 @@ At this stage, we are preparing two grant applications:
 Time line
 ---------
 
-- `8-9 September 2014: Preparatory meeting <2014-09-08-meeting.rst>`_
-- `Meeting report <2014-09-08-meeting-report.rst>`_
-- December 15th of 2015: H2020 proposal basically finished
+- `8-9 September 2014: Preparatory meeting <2014-09-08-meeting.rst; report at the end>`_
 - January 14th of  2015: H2020 proposal submission
 - March 24th of 2015: Cost Proposal submission
 - September 2015-: Tentative start of H2020 project, for four years
@@ -91,5 +89,5 @@ Files
 
 - A draft of `big picture <H2020/Pictures/TheBigPicture.svg>`_
 
-- `A draft of mind map <http://sage.math.washington.edu/home/nthiery/MindMap.html>`_
-  (`Sources  <MindMap.mm>`_ to be edited with `freeplane <http://freeplane.sourceforge.net/wiki/index.php/Main_Page>`_)
+.. - `A draft of mind map <http://sage.math.washington.edu/home/nthiery/MindMap.html>`_
+..   (`Sources  <MindMap.mm>`_ to be edited with `freeplane <http://freeplane.sourceforge.net/wiki/index.php/Main_Page>`_)
