@@ -247,8 +247,23 @@ mi-décembre.
    ???
 ** Training: documents, repository
    Voir file:H2020/WorkPackages/Dissemination.tex
-** Contacter Pythran
 ** Document structurés sur IPython
+** Packaging
+
+concept.tex:\paragraph{Logilab: simulagora, cubicweb, ...}
+concept.tex:\TOWRITE{Logilab}{One paragraph description of simulagora, cubicweb, ...}
+concept.tex:\TOWRITE{Logilab}{How does it relate to this project}
+outline.tex:- Database and Scientific Computing for the industry (Logilab)
+
+Description of the consortium as a whole
+
+proposal.tex:  numerical code optimization/parallelization (Logilab, Grenoble)
+proposal.tex:  Database and Scientific Computing for the industry (Logilab); it
+
+WorkPackages/UserInterfaces.tex:  Quantopian, Logilab, GraphLab, Enthought, Continuum, Authorea, BuzzFeed, etc.) and journalism (538, New
+WorkPackages/UserInterfaces.tex:  \item \TOWRITE{Logilab}{Inclusion of database queries and views}
+
+
 * Journée d'information du MENESR
   <2014-11-12 mer. 14:00-18:00>
   M.E.N.E.S.R. (Amphithéâtre Poincaré)
@@ -386,3 +401,56 @@ Point de contact national pour l'appel: pcn-infra@recherche.gouv.fr
 * Visite Vincent Delecroix
   <2014-12-12 ven. 9:00-13:00>
   <2014-12-15 lun. >
+* DONE With Michael
+  - State "DONE"       from ""           [2015-01-12 lun. 09:41]
+  Macro to declare the number of months each participant is going to
+  spend on the project, and showing it up in the "Summary of efforts"
+  table to check that it matches up
+* Recover from previous proposal justification for high end laptops
+* Eugenia
+  - Workshops:
+    - Dans la description des tâches
+    - Éventuellement compte rendu de workshop comme livrable Dans un
+      workshop de formation, cela peut être assez court (1/2 pages)
+
+  - Advisory board
+    - Main participants
+    - Groupe logiciel libre Systematic
+    - Juriste?
+    - External users / ... (hongrie)
+
+  - What can we delegate
+  - If needed: explanation about the relatively low involvement of
+    UVSQ in the Component architecture work package
+
+  - People for Orsay
+* TODO Workshop at AIMS
+  If we do, cross item in Section 6 Ethics of the web site, and specify the
+  page explaining why those workshop will benefit to lower income countries.
+* Add Data Management Plan as deliverable of the Management work package
+* Group together the demonstrators
+    - One (or several?) in Pure math
+    - One in scientific computing (OOMMF)
+    - One in ???
+* Databases: triform ... verbiage?
+
+* Ontologies ne marche pas, pourquoi?
+
+* DONE OOOMF
+
+00 44 2380 988878
+00 44 2380 510049
+
+* DONE Check budget with PO
+  - State "DONE"       from ""           [2015-01-10 sam. 16:10]
+* DONE Add a gender key to all CV's and fill up the data
+  - State "DONE"       from ""           [2015-01-08 jeu. 11:42]
+* DONE Check requirements on tasks labeling and fix style file if needed
+  - State "DONE"       from ""           [2015-01-10 sam. 16:10]
+* Short description of main tasks for Orsay, Versailles, Kaiserslautern
+* Read self-evaluation short file h2020-call-ef-ria_einfra_en.pdf
+* Check Valeriya's comments
+* Proofreading
+  - Steve Linton Monday / on-off Tuesday
+  - John: Monday/Tuesday except for a couple hours
+  - Alex: Monday/Tuesday
