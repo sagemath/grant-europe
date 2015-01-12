@@ -401,7 +401,8 @@ Point de contact national pour l'appel: pcn-infra@recherche.gouv.fr
 * Visite Vincent Delecroix
   <2014-12-12 ven. 9:00-13:00>
   <2014-12-15 lun. >
-* With Michael
+* DONE With Michael
+  - State "DONE"       from ""           [2015-01-12 lun. 09:41]
   Macro to declare the number of months each participant is going to
   spend on the project, and showing it up in the "Summary of efforts"
   table to check that it matches up
@@ -423,12 +424,10 @@ Point de contact national pour l'appel: pcn-infra@recherche.gouv.fr
     UVSQ in the Component architecture work package
 
   - People for Orsay
-* Workshop at AIMS
+* TODO Workshop at AIMS
   If we do, cross item in Section 6 Ethics of the web site, and specify the
   page explaining why those workshop will benefit to lower income countries.
 * Add Data Management Plan as deliverable of the Management work package
-* Contact English participant / admins for proofreading
-* Risk: add item about joint work with the community
 * Group together the demonstrators
     - One (or several?) in Pure math
     - One in scientific computing (OOMMF)
@@ -437,7 +436,6 @@ Point de contact national pour l'appel: pcn-infra@recherche.gouv.fr
 
 * Ontologies ne marche pas, pourquoi?
 
-* Budget for participants
 * DONE OOOMF
 
 00 44 2380 988878
@@ -449,15 +447,10 @@ Point de contact national pour l'appel: pcn-infra@recherche.gouv.fr
   - State "DONE"       from ""           [2015-01-08 jeu. 11:42]
 * DONE Check requirements on tasks labeling and fix style file if needed
   - State "DONE"       from ""           [2015-01-10 sam. 16:10]
-* Short budget description for Orsay
 * Short description of main tasks for Orsay, Versailles, Kaiserslautern
-* Flesh up the description of the to-be-hired people
 * Read self-evaluation short file h2020-call-ef-ria_einfra_en.pdf
 * Check Valeriya's comments
-* Mail about Gantt chart
-* Risk: will the infrastructure actually match the needs of the end users
-
-  Measure: We are users; steering and governance is naturally by
-  end-users; because we provide a kit, users have the flexibility to
-  adapt the infrastructure to their needs.
-
+* Proofreading
+  - Steve Linton Monday / on-off Tuesday
+  - John: Monday/Tuesday except for a couple hours
+  - Alex: Monday/Tuesday
