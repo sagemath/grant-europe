@@ -31,6 +31,9 @@
 *.vrb
 *.xdy
 *.tdo
-H2020/proposal.pdf
 auto
 *.run.xml
+*.deliverables
+*.delivs
+*.pdf
+*.doc
