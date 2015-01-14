@@ -460,20 +460,13 @@ Point de contact national pour l'appel: pcn-infra@recherche.gouv.fr
 * Style
   11pt
   15mm de marges
-* Advisory Board
+* DONE Advisory Board
+  - State "DONE"       from ""           [2015-01-13 mar. 19:34]
   - William Stein
   - Systematic (confirmed)
   - Hongrie (confirmed)
   - ???
-* Finalisation avec Eugenia
-** DONE Suprimmer Audit costs et adapter les nombres en conséquence dans
-   - State "DONE"       from ""           [2015-01-13 mar. 13:30]
-    les "ressources to be commited"
-** Management Level Description of Resources and Budget
-** Finaliser l'ordre des participants / cohérence des noms
-    - [ ] Versailles Saint-Quentin en Yvelines
-    - [ ] CNRS
-* Update Figure 2
+* TODO Update Figure 2
   - Moving it to the right spot
   - Explaining what it reflects: mathematicians are already in a
     global VRE
@@ -487,36 +480,36 @@ Point de contact national pour l'appel: pcn-infra@recherche.gouv.fr
 * Objectives: either crosslink tasks everywhere or nowhere
 * Faire rentrer les objectifs dans 4 pages?
 * Specific requests of the call.
-* Review KPI with Alexander
+* DONE Review KPI with Alexander
+  - State "DONE"       from ""           [2015-01-13 mar. 19:34]
 * DONE Vincent's mail
   - State "DONE"       from ""           [2015-01-13 mar. 14:38]
 * DONE Wolfram's situation
   - State "DONE"       from ""           [2015-01-13 mar. 14:35]
-* Systematic replacements
-  ize -> ise
-  3d -> 3D
-* Abstract
-** Mettre à jour
-** Bien mettre en valeur le fait qu'il y aura réellement des VRE construits
-   (les démonstrateurs)
-   C'est pas seulement du travail en amont.
-* Contact other VRE
-* Risk
+* DONE Resources: réordonner et numéroter les participants
+  - State "DONE"       from ""           [2015-01-13 mar. 19:32]
+* TODO Risk
   Postdoc -> dans la section soutenabilité
   Fidéliser les gens
   pérénisation de la présence des recrutés, en particulier en faisant
   attention à assigner des tâches cohérentes avec leur rôle.
-* Checklist
+* TODO Systematic replacements
+  ize -> ise
+  3d -> 3D
+* TODO Abstract
+** Mettre à jour
+** Bien mettre en valeur le fait qu'il y aura réellement des VRE construits
+   (les démonstrateurs)
+   C'est pas seulement du travail en amont.
+* TODO Contact other VRE
+* Checklist de soumission
 - [ ] Mettre à jour l'abstract
 - [ ] Resources, feuilles de budget, engagement
-- [ ] Table 3.4.3 Ressource summary
+- [ ] Table 3.4.3 Resource summary
+- [ ] Mentionner la page où William est mentionné (Advisory Board)
 * Vispy
-* Modèle économique
-* Resources: réordonner et numéroter les participants
-* TODO Éthique:
-  - Mentionner la page où William est mentionné (Advisory Board)
-  - Mentionner la page sur les workshops en afrique
-* Third party table
+* TODO Modèle économique
+* TODO Third party table
 
 Other participants have no third parties involved
 
@@ -531,3 +524,6 @@ Table
 Silesia
 
 Table
+* TODO Fix "Two of the proposers"
+* Layout of 3.2 management structure
+* TODO Bourse de thèse
