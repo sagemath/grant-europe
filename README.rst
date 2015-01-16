@@ -1,6 +1,14 @@
 European grant application around Collaborative ecosystems for mathematical research and software development
 =============================================================================================================
 
+NEWS
+====
+
+- `OpenDreamKit H2020/OpenDreamKit.rst`_ proposal submitted!
+
+About this project
+==================
+
 The purpose of this project is to explore and pursue grant
 applications for the ecosystem of open source computational and
 database software for pure mathematics and applications (GAP, LMFDB,
@@ -32,7 +40,7 @@ Europe for:
 Proposal submitted
 ==================
 
-`Open Digital Research Environment Toolkit for the Advancement of
+`OpenDreamKit: Open Digital Research Environment Toolkit for the Advancement of
 Mathematics <H2020/OpenDreamKit.rst>`_: a European H2020 application for the call `EINFRA-9: e-Infrastructure for Virtual Research Environment
 <http://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/topics/2144-einfra-9-2015.html>`_.
 
