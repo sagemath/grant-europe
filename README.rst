@@ -65,7 +65,7 @@ and send an e-mail there with:
 - trac & github account if you have them
 - Whatever ideas you may have for the proposals
 
-We will add you to the collaborators on this githup project so that
+We will add you to the collaborators on this github project so that
 you can start editing the information. In particular, check and edit
 the information in the `COST consortium <Cost/consortium.tex>`_
 .. and `target feature <H2020/actions.tex>`_ files.
