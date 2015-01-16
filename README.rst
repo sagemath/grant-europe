@@ -32,9 +32,8 @@ Europe for:
 Proposal submitted
 ==================
 
-`Open Digital Research Environment Toolkit for the Advancement of Mathematics <H2020/OpenDreamKit.rst>`_
-
-A European H2020 application for the call `EINFRA-9: e-Infrastructure for Virtual Research Environment
+`Open Digital Research Environment Toolkit for the Advancement of
+Mathematics <H2020/OpenDreamKit.rst>`_: a European H2020 application for the call `EINFRA-9: e-Infrastructure for Virtual Research Environment
 <http://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/topics/2144-einfra-9-2015.html>`_.
 
 In preparation
@@ -55,9 +54,8 @@ Time line
 Join!
 -----
 
-At this point, the consortium is final for the H2020 proposal, but not
-for the Cost network. If you are tentatively interested in
-participating, please join the `mailing list
+If you are tentatively interested in participating, in particular for
+the Cost proposal, please join the `mailing list
 <https://listes.services.cnrs.fr/wws/info/sagemath-grant-europe>`_,
 and send an e-mail there with:
 
@@ -74,19 +72,19 @@ the information in the `COST consortium <Cost/consortium.tex>`_
 You are welcome to explore other opportunities for grant applications,
 centered for example on teaching, ...
 
-Files
------
+.. Files
+.. -----
 
-- `Current draft of H2020 proposal <H2020/proposal.pdf>`_
+.. - `Current draft of H2020 proposal <H2020/proposal.pdf>`_
 
 .. - `Information about the H2020 call and ToDo list <TODO.org>`_
 ..    This is best viewed/edited using org-mode
 
-- `Tentative consortium for the COST network <Cost/consortium.tex>`_
+.. - `Tentative consortium for the COST network <Cost/consortium.tex>`_
 
 .. - `Potential target features and actions <H2020/actions.tex>`_.
 
-- `Original thread on sage-devel <https://groups.google.com/d/msg/sage-devel/zW8vHUI1PEw/SOl3lQrS08YJ>`_
+.. - `Original thread on sage-devel <https://groups.google.com/d/msg/sage-devel/zW8vHUI1PEw/SOl3lQrS08YJ>`_
 
 .. - A draft of `big picture <H2020/Pictures/TheBigPicture.svg>`_
 
