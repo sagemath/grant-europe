@@ -1,5 +1,5 @@
-European grant application around Collaborative ecosystems for mathematical research and software development
-=============================================================================================================
+European grant applications around collaborative software development for mathematics
+=====================================================================================
 
 NEWS
 ====
