@@ -4,7 +4,7 @@ European grant applications around collaborative software development for mathem
 NEWS
 ====
 
-- `OpenDreamKit H2020/OpenDreamKit.rst`_ proposal submitted!
+- `OpenDreamKit <H2020/OpenDreamKit.rst>`_ proposal submitted!
 
 About this project
 ==================
