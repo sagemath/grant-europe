@@ -6,6 +6,10 @@ OpenDreamKit is a European H2020 proposal that we submitted on the
 14th of January of 2015. If it gets accepted (answer around June), it
 will run for four years, starting in September of 2015.
 
+Update 2015-05-19:
+- Project accepted! See http://opendreamkit.org
+- The H2020/ subdirectory of this git repository is discontinued in favor of https://github.com/OpenDreamKit
+
 - `Proposal <proposal-www.pdf?raw=True>`_
 
 Note: the above pdf is the officially submitted one, up to the fixing
