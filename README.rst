@@ -4,7 +4,10 @@ European grant applications around collaborative software development for mathem
 NEWS
 ====
 
-- `OpenDreamKit <H2020/OpenDreamKit.rst>`_ proposal submitted!
+- 2015/05/20: `OpenDreamKit <opendreamkit.org>`_'s repository (formerly H2020/) moved to https://github.com/OpenDreamKit/OpenDreamKit
+- 2015/05/20: `OpenDreamKit <opendreamkit.org>`_'s proposal accepted!
+- 2015/01/14: `OpenDreamKit <opendreamkit.org>`_'s proposal submitted!
+
 
 About this project
 ==================
@@ -37,27 +40,21 @@ Europe for:
 - Fostering collaboration and symbiosis within and between software
   components and developer communities.
 
-Proposal submitted
-==================
+Proposal accepted
+=================
 
 `OpenDreamKit: Open Digital Research Environment Toolkit for the Advancement of
-Mathematics <H2020/OpenDreamKit.rst>`_: a European H2020 application for the call `EINFRA-9: e-Infrastructure for Virtual Research Environment
+Mathematics <http://opendreamkit.org/>`_: a European H2020 application for the call `EINFRA-9: e-Infrastructure for Virtual Research Environment
 <http://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/topics/2144-einfra-9-2015.html>`_.
 
-In preparation
-==============
+In thinking
+===========
 
-A `COST network <http://www.cost.eu>`_ targeting a large `consortium <Cost/consortium.tex>`_.
-
-
-Time line
----------
-
-- `8-9 September 2014: Preparatory meeting <2014-09-08-meeting.rst; report at the end>`_
-- January 14th of  2015: H2020 proposal submission
-- March 24th of 2015: Cost Proposal submission
-- June of 2015: results of the H2020
-- September 2015-: Tentative start of H2020 project, for four years
+A `COST network <http://www.cost.eu>`_ targeting a large `consortium
+<Cost/consortium.tex>`_ and focused on community building around open
+source computational math software. This is a recurrent call from the
+EU, and there is a good opportunity here. What's missing at this point
+is someone to take the lead. Volunteers?
 
 Join!
 -----
