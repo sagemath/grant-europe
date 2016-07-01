@@ -53,6 +53,8 @@
   https://www.scipy.org/
 - Singular
   https://www.singular.uni-kl.de
+- SURFER
+  https://imaginary.org/program/surfer
 - Sympy
   http://www.sympy.org/
 - TeXmacs
