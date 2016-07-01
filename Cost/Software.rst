@@ -1,14 +1,28 @@
-GAP
-Pari
-Sage
-CoCOA
-Linbox
-FGb/RS
-NTL
-FLINT
-MPFR/...
-CGal
-RISC
-Mathemagix
-Polymake
-Xcas
+- Cantor
+- CGal
+- CoCOA
+- Coq
+- FGb/RS
+- FLINT
+- GAP
+- Giac/Xcas
+- Ginac
+- Jupyter
+- LaTeX
+- Linbox
+- Mathemagix
+- MPIR
+- MPFR/...
+- NTL
+- Numpy
+- Pari
+- Polymake
+- Pynac
+- R
+- RISC
+- SageMath
+- SageMathCloud
+- Scipy
+- Singular
+- Sympy
+- TeXmacs
