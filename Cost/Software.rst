@@ -8,7 +8,8 @@
   http://cocoa.dima.unige.it
 - Coq
   https://coq.inria.fr
-- FGb/RS
+- FGb
+  http://www-polsys.lip6.fr/~jcf/FGb/index.html
 - FLINT
   http://www.flintlib.org
 - GAP
@@ -43,8 +44,12 @@
   http://pynac.org
 - R
   https://www.r-project.org
+- RAGlib
+  http://www-polsys.lip6.fr/~safey/RAGLib/distrib.html
 - RISC
   https://www.risc.jku.at/people/
+- RS
+  https://who.rocq.inria.fr/Fabrice.Rouillier/software.php
 - SageMath
   https://sagemath.org
 - SageMathCloud
